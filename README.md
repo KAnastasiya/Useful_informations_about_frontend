@@ -105,31 +105,36 @@
 ======
 
 ### Рабочее место разработчика
-[Настроим рабочее место frontend-разработчика] (https://github.com/KAnastasiya/Developer_Workplace) (мой репозиторий с полезной инфорацией)
+[Настроим рабочее место frontend-разработчика] (https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/developer-workspace.md)
 
 ======
 
 ### Пишем разметку
-[Полезная информация по HTML] (https://github.com/KAnastasiya/Awesome_HTML) (мой репозиторий с полезной инфорацией)
+[Полезная информация по HTML] (https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/html.md)
 
 ======
 
 ### Пишем стили
-[Полезная информация по CSS] (https://github.com/KAnastasiya/Awesome_CSS) (мой репозиторий с полезной инфорацией)
+[Полезная информация по CSS] (https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/css.md)
 
 ======
 
 ### Пишем скрипты
-[Полезная информация по JavaScript] (https://github.com/KAnastasiya/Awesome_JavaScript) (мой репозиторий с полезной инфорацией)
+[Полезная информация по JavaScript] (https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/javascript.md)
 
 ======
 
 ### Canvas и SVG
-[Полезная информация по Canvas и SVG] (https://github.com/KAnastasiya/Canvas_and_SVG) (мой репозиторий с полезной инфорацией)
+[Полезная информация по Canvas и SVG] (https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/canvas_svg.md)
+
+======
+
+### Работаем с API
+[Полезная информация по интеграции со сторонними сервисами] (https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/api.md)
 
 ======
 
 ### Взгляд в будущее
 *Знакомимся с новинками frontend-а*
 
-[Новинки frontend-а и его оптимизация] (https://github.com/KAnastasiya/Optimizations_and_novelties) (мой репозиторий с полезной инфорацией)
+[Новинки frontend-а и его оптимизация] (https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/optimizations_novelties.md)
