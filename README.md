@@ -135,6 +135,4 @@
 ======
 
 ### Взгляд в будущее
-*Знакомимся с новинками frontend-а*
-
 [Новинки frontend-а и его оптимизация] (https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/optimizations_novelties.md)
