@@ -125,9 +125,9 @@
 ======
 
 ### jQuery
-[Программируем на jQuery] (https://github.com/KAnastasiya/Learn_jQuery) (мой репозиторий с полезными ссылками)
+[Программируем на jQuery] (https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/jquery.md)
 
 ======
 
 ### React
-[Программируем на React] (https://github.com/KAnastasiya/Learn_React) (мой репозиторий с полезными ссылками)
+[Программируем на React] (https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/react.md)
