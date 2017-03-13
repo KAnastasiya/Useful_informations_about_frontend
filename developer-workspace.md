@@ -6,7 +6,7 @@
 ======
 
 ### Офлайн редакторы кода
-1. [Sublime Text] (http://www.sublimetext.com/) - a sophisticated text editor for code, markup and prose. Настройку см. в [моем репозитории] (https://github.com/KAnastasiya/SublimeText3)
+1. [Sublime Text] (http://www.sublimetext.com/) - a sophisticated text editor for code, markup and prose. Мои настройки этого редактора см. в [здесь] (https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/sublime.md)
 2. [Brackets] (http://brackets.io/) - a modern, open source text editor that understands web design
 3. [Atom] (https://atom.io/) - a hackable text editor for the 21st Century
 
@@ -24,7 +24,7 @@
 ### Автоматизация frontend-а
 *Сжатия файлов, оптимизация изображений, создание спрайтов, применение изменений на лету... Это только малая часть того, что компьютер может делать за вас. Хотите разрабатывать быстрее и удобнее? Настройке автоматизацию своего проекта!*
 
-[Автоматизируем процесс разработки] (https://github.com/KAnastasiya/Frontend_automation) (мой репозиторий с полезными ссылками и настройками)
+[Автоматизируем процесс разработки] (https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/automation.md)
 
 ======
 
