@@ -1,4 +1,4 @@
-# For Frontend developer
+# Полезная информация для frontend-разработчика
 
 ### Верстка
 1. [Что должен знать верстальщик] (http://krekotun.ru/ui-developer-skills)
