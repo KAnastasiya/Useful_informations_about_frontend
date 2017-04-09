@@ -132,6 +132,8 @@
 4. [Stylelint в Sublime Text](https://packagecontrol.io/packages/SublimeLinter-contrib-stylelint)
 5. [Плагин stylelint-scss (линтинг scss-синтаксиса)](https://github.com/kristerkari/stylelint-scss)
 6. [stylelint-config-standard (набор правил для линтинга)](https://github.com/stylelint/stylelint-config-standard)
+7. [Stylelint Config Generator](https://maximgatilin.github.io/stylelint-config/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=stylelint-config-generator--dialogovyy-i)
+
 
 ======
 
