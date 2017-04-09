@@ -72,6 +72,7 @@ app.listen(3000, function () {
 | [uBlock](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/related?hl=ru) | эффективный блокировщик: использует меньше оперативной памяти и меньше нагружает ЦП, при этом используя больше фильтров |
 | [Tunnel Bear](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa/related) | обход заблокированных сайтов, защита своих данных в интернет и т.д.|
 | [Request Maker](https://chrome.google.com/webstore/detail/request-maker/kajfghlhfkcocafkcjlajldicbikpgnp) | взаимодействие с сервером, отправка запросов и получение ответов |
+| [Chrome extends CSS peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) | extract CSS and build beautiful styleguides |
 
 ======
 
