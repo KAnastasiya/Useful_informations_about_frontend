@@ -110,6 +110,9 @@
 28. [Практические советы по улучшению качества кода (geekBrains)](https://geekbrains.ru/events/145) 
 29. [Советы по стилю кода (learn.javascript)](https://learn.javascript.ru/coding-style)
 30. Строгий режим: [frontender] http://frontender.info/why-use-strict-in-javascript-can-save-you-hours/), [habrahabr.ru](https://habrahabr.ru/post/118666/) и [developer.mozilla.org](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Strict_mode), [loftblog] (http://loftblog.ru/material/chto-takoe-use-strict-i-zachem-on-nuzhen/)
+31. [Асинхронный JavaScript против отложенного](https://habrahabr.ru/post/323790/)
+32. [Обратные вызовы на примере списка домашних дел](https://htmlacademy.ru/blog/155-understanding-callbacks?utm_source=forwebdev&utm_medium=announcement&utm_campaign=obratnye-vyzovy-na-primere-spiska-domashn)
+33. [Ад обратных вызовов](http://callbackhell.ru/)
 
 ======
 
