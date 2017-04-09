@@ -10,6 +10,7 @@
 6. [Установка Package Control](https://packagecontrol.io/installation#st3)
 7. [Синхронизация настроек между разными ПК](https://packagecontrol.io/docs/syncing)
 8. [Пишем сниппеты для Sublime Text](https://www.youtube.com/watch?v=Z0rF3VdYo94)
+9. [GitHub Gist в Sublime Text](http://rubycode.ru/sublime-text/70-nastroyka-github-gist-hranenie-i-ispolzovanie-koda.html)
 
 ======
 
