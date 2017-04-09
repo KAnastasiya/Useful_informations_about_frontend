@@ -20,6 +20,7 @@
 1. [cssreference.io](http://cssreference.io/?utm_source=forwebdev&utm_medium=announcement&utm_campaign=css-reference--shpargalka-po-rasprostranyo)
 2. [webref.ru](https://webref.ru/css)
 3. [w3schools.com](http://www.w3schools.com/css/css_rwd_viewport.asp)
+4. [codrops](https://tympanus.net/codrops/css_reference/) 
 
 ======
 
@@ -180,6 +181,8 @@
 5. [Gradient Generator, Border Radius, Noise Texture и Box Shadow](http://www.cssmatic.com/gradient-generator#'\-moz\-linear\-gradient\%28left\%2C\%20rgba\%28248\%2C80\%2C50\%2C1\%29\%200\%25\%2C\%20rgba\%28241\%2C111\%2C92\%2C1\%29\%2050\%25\%2C\%20rgba\%28246\%2C41\%2C12\%2C1\%29\%2051\%25\%2C\%20rgba\%28240\%2C47\%2C23\%2C1\%29\%2071\%25\%2C\%20rgba\%28231\%2C56\%2C39\%2C1\%29\%20100\%25\%29\%3B)
 6. [CSS gradient animator](https://www.gradient-animator.com/)
 7. [CSS Filter Effects](http://html5-demos.appspot.com/static/css/filters/index.html)
+8. [CSS clip-path maker](http://bennettfeely.com/clippy/) 
+9. [Specificity Online-Calculator](http://specificity.keegan.st/)
 
 ======
 
