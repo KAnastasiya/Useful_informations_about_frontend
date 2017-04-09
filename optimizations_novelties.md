@@ -26,6 +26,7 @@
 ### Пользовательские CSS-свойства (CSS-переменные)
 1. [Переменные в CSS: зачем они нам? (frontender)](http://frontender.info/css-variables-why-should-you-care/)
 2. [Пользовательские свойства CSS. Основы (zmeika)](http://zmeika.name/2017/03/02/custom-css-properties-basics.html)
+3. [Пишем понятный код с пользовательскими свойствами CSS (zmeika)](http://zmeika.name/2017/03/09/readable-css.html)
 
 ======
 
