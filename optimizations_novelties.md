@@ -27,6 +27,7 @@
 1. [Переменные в CSS: зачем они нам? (frontender)](http://frontender.info/css-variables-why-should-you-care/)
 2. [Пользовательские свойства CSS. Основы (zmeika)](http://zmeika.name/2017/03/02/custom-css-properties-basics.html)
 3. [Пишем понятный код с пользовательскими свойствами CSS (zmeika)](http://zmeika.name/2017/03/09/readable-css.html)
+4. [CSS Custom Properties in Microsoft Edge](https://blogs.windows.com/msedgedev/2017/03/24/css-custom-properties/#FejEgroStbJlMRtg.97) 
 
 ======
 
