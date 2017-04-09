@@ -47,6 +47,7 @@
 5. [idiomatic js](https://github.com/rwaldron/idiomatic.js/tree/master/translations/ru_RU) 
 6. [learn.javascript.ru](https://learn.javascript.ru/coding-style)
 7. [scss](http://nicothin.github.io/idiomatic-pre-CSS/)
+8. [airbnb](https://github.com/airbnb/javascript)
 
 ======
 
