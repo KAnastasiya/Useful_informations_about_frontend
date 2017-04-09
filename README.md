@@ -18,7 +18,8 @@
 16. [Принципы работы современных веб-браузеров](http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/#Parsing_general)
 17. [Как лучше вставить логотип на страницу](http://css.yoksel.ru/a11y-for-logotypes/?ct=t(hamail_20170115))
 18. [Creating Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=obzor-sposobov-sozdaniya-shapok-so-slozhnoy)
-19. [Бесплатные макеты для верстки](http://psd-html-css.ru/) 
+19. [Верстка не тупо] (http://webmasters.teamdev.com/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=vyorstka--eto-ne-tupo!-bezumno-krutoe-ru) 
+20. [Бесплатные макеты для верстки](http://psd-html-css.ru/) 
 
 ======
 
