@@ -149,18 +149,26 @@
 
 ======
 
-### Системы контроля версий, Git, GitHub
+### Git
+*Распределённая система управления версиями*
 
-1. [Системы контроля версий](http://iportnov.ru/blog/2008/06/19/sistemy-kontrolya-versii-git)
-2. [Git, GitHub и GitHub Desktop](https://www.youtube.com/watch?v=SfSYrebXLDE)
-3. [Git и GitHub для новичков (loftblog)](http://loftblog.ru/material/git-dlya-novichkov-1-osnovy/)
-4. [Начало работы с GitHub, tortoisegit (habrahabr)](https://habrahabr.ru/post/125799/)
-5. [GitKraken](https://www.gitkraken.com/) - кроссплатформенное приложение для контроля версий
-6. [Хостинг на GitHub (gh-pages)](https://htmlacademy.ru/blog/99-github-as-hosting)
-7. [Советы по написанию коммитов (habrahabr)](https://habrahabr.ru/company/Voximplant/blog/276695/)
-8. [GitHub. Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-8. Git: 
-    * [Git для новичков](http://pcottle.github.io/learnGitBranching/)
-    * [Как быстро работать с GIT](https://geekbrains.ru/events/218)
-    * [Обучающий курс от codefcademy](https://www.codecademy.com/learn/learn-git)
-    * [Книга "О Git"](http://howtodoit.com.ua/wp-content/uploads/2014/02/progit.ru_.pdf)
+1. [Git для новичков (loftblog)](http://loftblog.ru/material/git-dlya-novichkov-1-osnovy/)
+2. [Git для новичков](http://pcottle.github.io/learnGitBranching/)
+3. [Как быстро работать с GIT](https://geekbrains.ru/events/218)
+4. [Обучающий курс от codeacademy](https://www.codecademy.com/learn/learn-git)
+5. [Книга "О Git"](http://howtodoit.com.ua/wp-content/uploads/2014/02/progit.ru_.pdf)
+6. [Советы по написанию коммитов (habrahabr)](https://habrahabr.ru/company/Voximplant/blog/276695/)
+7. [GitKraken](https://www.gitkraken.com/) - кроссплатформенное приложение для контроля версий
+
+======
+
+### GitHub
+*Крупнейший веб-сервис для хостинга IT-проектов и их совместной разработки. Основан на системе контроля версий Git*
+
+1. [Как начать работать с GitHub: быстрый старт (habrahabr)](https://habrahabr.ru/post/125799/)
+2. [Git & GitHub - работа под Windows](https://www.youtube.com/watch?v=SfSYrebXLDE)
+3. [GitHub. Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+4. [Great README](https://medium.com/code-the-world/writing-a-great-readme-written-by-daniel-bader-4a02d1edc7a#.6uceset1o)
+5. [Хостинг на GitHub (gh-pages)](https://htmlacademy.ru/blog/99-github-as-hosting)
+6. [GitHub Gist - хранение и повторное использование кода](https://www.youtube.com/watch?v=fUUXus8gGk0)
+7. [Невидимые друзья вашего github-репозитория](https://habrahabr.ru/company/eastbanctech/blog/323760/) 
