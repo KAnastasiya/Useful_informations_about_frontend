@@ -1,3 +1,20 @@
+### CSS Grid Layout
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [CSS Reference.Grid](https://tympanus.net/codrops/css_reference/grid/)
+- [Grid by Example](http://gridbyexample.com/)
+- [Золотая рыбка CSS3 Grid Layout](http://css-live.ru/css/zolotaya-rybka-css3-grid-layout.html) 
+- [Подробно о размещении элементов в грид-раскладке](http://css-live.ru/articles/podrobno-o-razmeshhenii-elementov-v-grid-raskladke-css-grid-layout.html)
+- [Знакомство с CSS Grid Layout](http://css-live.ru/articles/znakomstvo-s-css-grid-layout.html)
+- [Getting Started with CSS Grid] (https://css-tricks.com/getting-started-css-grid/)
+- [CSS Grid на практике: добавляем гриды к существующему дизайну](http://css-live.ru/articles/css-grid-na-praktike-dobavlyaem-gridy-k-sushhestvuyushhemu-dizajnu.html)
+- [Красивое выравнивание блоков по резиновой сетке. По-новому](http://css-live.ru/css/responsive-grid-css-grid-layout-auto-fill.html) 
+- [Свойства для выравнивания всего и их новые тайны](http://css-live.ru/articles-css/svojstva-dlya-vyravnivaniya-vsego-i-ix-novye-tajny.html)
+- [Как грид-раскладка (Grid Layout) провела лето](http://css-live.ru/articles/kak-grid-raskladka-grid-layout-provela-leto.html)
+- [Grid garden (game)](http://cssgridgarden.com)
+- [Firefox. CSS Grid Inspector](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
+
+======
+
 ### Web components
 1. [Custom Elements, Shadow Dom, CSS Scoping, HTML imports и т.д. (learn.javascript)](https://learn.javascript.ru/webcomponents)
 2. [Shadow Dom. Введение (frontender, часть 1)](http://frontender.info/shadowdom/)
@@ -6,15 +23,19 @@
 
 ======
 
-### Пользовательские CSS-свойства (или CSS-переменные) и др. новинки CSS 
+### Пользовательские CSS-свойства (CSS-переменные)
 1. [Переменные в CSS: зачем они нам? (frontender)](http://frontender.info/css-variables-why-should-you-care/)
 2. [Пользовательские свойства CSS. Основы (zmeika)](http://zmeika.name/2017/03/02/custom-css-properties-basics.html)
-3. [Improve the Look of Links - text–decoration–skip и text–decoration–color](http://thenewcode.com/1168/Improve-the-Look-of-Links-with-the-CSS-Text-Decoration-Module?ct=t(hamail_20170115))
-4. [Раздельные функции CSS-трансформации (отдельные свойства, использование css-переменных)](http://css-live.ru/tricks/tryuk-razdelnye-funkcii-css-transformacii.html)
-5. [Background-blend-mode](http://css.yoksel.ru/background-blend-mode/) 
-6. [Знакомство с object-fit](http://css-live.ru/articles/znakomstvo-s-object-fit.html) 
-7. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
-8. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
+
+======
+
+### Прочие новинки CSS 
+1. [Improve the Look of Links - text–decoration–skip и text–decoration–color](http://thenewcode.com/1168/Improve-the-Look-of-Links-with-the-CSS-Text-Decoration-Module?ct=t(hamail_20170115))
+2. [Раздельные функции CSS-трансформации (отдельные свойства, использование css-переменных)](http://css-live.ru/tricks/tryuk-razdelnye-funkcii-css-transformacii.html)
+3. [Background-blend-mode](http://css.yoksel.ru/background-blend-mode/) 
+4. [Знакомство с object-fit](http://css-live.ru/articles/znakomstvo-s-object-fit.html) 
+5. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
+6. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
 
 ======
 
