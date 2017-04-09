@@ -31,10 +31,17 @@
 
 ======
 
-### Теги `<form>`, `<video>` и `<audio>`
+### HTML5 Forms
 1. [Компонент form](http://www.cyberguru.ru/web/html/form-tag-html.html)
-2. [Аудио и видео в HTML5 (professorweb)](https://professorweb.ru/my/html/html5/level3/3_1.php)
-3. [Теги Video и Audio (w3schools)](http://www.w3schools.com/TagS/ref_av_dom.asp)
+2. [HTML forms guide](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms) 
+3. Input Types: [part 1](https://www.sitepoint.com/html5-forms-input-types/) и [part 2](https://www.sitepoint.com/html5-forms-input-types-part-2/)
+
+======
+
+### HTML5 Video and Audio
+1. [Аудио и видео в HTML5 (professorweb)](https://professorweb.ru/my/html/html5/level3/3_1.php)
+2. [Теги Video и Audio (w3schools)](http://www.w3schools.com/TagS/ref_av_dom.asp)
+3. [HTML5 Video and Audio: The Markup (sitepoint)](https://www.sitepoint.com/html5-video-and-audio-the-markup/)
 4. [Тег audio (habrahabr)](https://habrahabr.ru/post/148202/ )
 5. [Собственный видео-плеер на HTML5 Video (habrahabr)](https://habrahabr.ru/company/microsoft/blog/127295/)
 6. [HTML5 Video (html5book)](https://html5book.ru/html5-video/)
