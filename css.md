@@ -11,7 +11,8 @@
 9. [HTML5 и CSS3 на примерах](https://webref.ru/layout/html5-css3)
 10. [Как верстать на HTML5 и CSS3](https://webref.ru/layout/howtocodeinhtml)
 12. [HTML & CSS is hard. A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
-13. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
+13. [Изучаем css-селекторы в игровой форме](https://flukeout.github.io/)
+14. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
 
 ======
 
@@ -41,20 +42,22 @@
 1. [Что такое Flexbox? (html5.by)](http://html5.by/blog/flexbox/)
 2. [Полное руководство (frontender)](http://frontender.info/a-guide-to-flexbox/)
 3. [Визуальное руководство (css-live)](http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html)
-4. [Видео-уроки от loftblog](http://loftblog.ru/material/flexbox-css3-1-flexbox-na-praktike/)
-5. [Flexbox (CodeDojo)](https://www.youtube.com/watch?v=7Lg-438gAc8&list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM&index=1)
-6. [Flex cheatsheet (yoksel)](http://yoksel.github.io/flex-cheatsheet/)
-7. [Интерактивная игра для изучения flexbox (flexboxfroggy)](http://flexboxfroggy.com/)
-8. [Веселое изучение flexbox (flexbox-game)](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
-9. [Flexbox game (flexboxdefense)](http://www.flexboxdefense.com/)
-10. [Как сделать sticky footer при резиновой верстке](http://shpargalkablog.ru/2014/02/footer-bottom.html)
-11. [Firefox overflow-y not working with nested flexbox](http://stackoverflow.com/questions/28636832/firefox-overflow-y-not-working-with-nested-flexbox)
-12. **Формула расчета flex-grow** (*насколько будет растянут flex-элемент относительно оставшихся flex-элементов во flex-контейнере при распределении положительного свободного пространства*): 
+4. [A Complete Guide to Flexbox (css-tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+5. [Видео-уроки от loftblog](http://loftblog.ru/material/flexbox-css3-1-flexbox-na-praktike/)
+6. [Flexbox (CodeDojo)](https://www.youtube.com/watch?v=7Lg-438gAc8&list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM&index=1)
+7. [Flex cheatsheet (yoksel)](http://yoksel.github.io/flex-cheatsheet/)
+8. [Интерактивная игра для изучения flexbox (flexboxfroggy)](http://flexboxfroggy.com/)
+9. [Веселое изучение flexbox (flexbox-game)](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
+10. [Flexbox game (flexboxdefense)](http://www.flexboxdefense.com/)
+11. [Как сделать sticky footer при резиновой верстке](http://shpargalkablog.ru/2014/02/footer-bottom.html)
+12. [Firefox overflow-y not working with nested flexbox](http://stackoverflow.com/questions/28636832/firefox-overflow-y-not-working-with-nested-flexbox)
+13. [Flexbox Tester (Understand how to calculate the width of flex items)](https://madebymike.com.au/demos/flexbox-tester/)
+14. **Формула расчета flex-grow** (*насколько будет растянут flex-элемент относительно оставшихся flex-элементов во flex-контейнере при распределении положительного свободного пространства*): 
 
     (Итог.размер_1 - flex-basis_1) * flex-grow_2 = (Итог.размер_2 - flex-basis_2) * flex-grow_1, 
     *где *_1 - свойства одного flex-элемента, а *_2 - другого flex-элемента.*
     
-13. **Формула расчета flex-shrink** (*насколько будет сужен flex-элемент относительно оставшихся flex-элементов во flex-контейнере при распределении отрицательного свободного пространства*): 
+15. **Формула расчета flex-shrink** (*насколько будет сужен flex-элемент относительно оставшихся flex-элементов во flex-контейнере при распределении отрицательного свободного пространства*): 
 
     (flex-basis_1 - Итог.размер_1) * flex-basis_2 * flex-shrink_2 = (flex-basis_2 - Итог.размер_2) * flex-basis_1 * flex-shrink_1, 
     *где *_1 - свойства одного flex-элемента, а *_2 - другого flex-элемента.*
