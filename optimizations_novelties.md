@@ -5,7 +5,7 @@
 - [Золотая рыбка CSS3 Grid Layout](http://css-live.ru/css/zolotaya-rybka-css3-grid-layout.html) 
 - [Подробно о размещении элементов в грид-раскладке](http://css-live.ru/articles/podrobno-o-razmeshhenii-elementov-v-grid-raskladke-css-grid-layout.html)
 - [Знакомство с CSS Grid Layout](http://css-live.ru/articles/znakomstvo-s-css-grid-layout.html)
-- [Getting Started with CSS Grid] (https://css-tricks.com/getting-started-css-grid/)
+- [Getting Started with CSS Grid](https://css-tricks.com/getting-started-css-grid/)
 - [CSS Grid на практике: добавляем гриды к существующему дизайну](http://css-live.ru/articles/css-grid-na-praktike-dobavlyaem-gridy-k-sushhestvuyushhemu-dizajnu.html)
 - [Красивое выравнивание блоков по резиновой сетке. По-новому](http://css-live.ru/css/responsive-grid-css-grid-layout-auto-fill.html) 
 - [Свойства для выравнивания всего и их новые тайны](http://css-live.ru/articles-css/svojstva-dlya-vyravnivaniya-vsego-i-ix-novye-tajny.html)
