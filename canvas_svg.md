@@ -21,13 +21,15 @@
 ### SVG
 *Формат векторной графики - «масштабируемая векторная графика» (Scalable Vector Graphics)*
 
-1. [SVG в вебе. Практическое руководство](https://svgontheweb.com/ru/)
+1. [Практическое руководство](https://svgontheweb.com/ru/)
+2. [Карманное руководство. Введение](http://css-live.ru/articles/karmannoe-rukovodstvo-po-napisaniyu-svg-vvedenie.html)
 2. [Используем SVG на сайте (habrahabr)](https://habrahabr.ru/post/260645/)
 3. [SVG-иконки – много и со стилем (habrahabr)](https://habrahabr.ru/post/269331/)
 4. [SVG Tutorial (MDN)](https://developer.mozilla.org/ru/docs/Web/SVG/Tutorial)
 5. [Использование SVG (frontender)](http://frontender.info/using-svg/)
 6. [Создание шрифтов из svg-иконок](https://glyphter.com/)
-7. [Интерактивный курс от htmlacademy](https://htmlacademy.ru/courses/130)
-8. [Про SVG (yoksel)](http://css.yoksel.ru/svg/)
-9. [Animation SVG with CSS (css-tricks)](https://css-tricks.com/animating-svg-css/)
-10. [Руководство по SMIL (css-live)](http://css-live.ru/articles/rukovodstvo-po-svg-animaciyam-smil.html)
+7. [Знакомство с SVG (интерактивный курс от htmlacademy)](https://htmlacademy.ru/courses/130)
+8. [Оформление SVG-фигур (интерактивный курс от htmlacademy)](https://t.co/Cbc9vVUjjR)
+9. [Про SVG (yoksel)](http://css.yoksel.ru/svg/)
+10. [Animation SVG with CSS (css-tricks)](https://css-tricks.com/animating-svg-css/)
+11. [Руководство по SMIL (css-live)](http://css-live.ru/articles/rukovodstvo-po-svg-animaciyam-smil.html)
