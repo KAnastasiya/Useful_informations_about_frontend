@@ -1,4 +1,5 @@
 # Awesome JavaScript
+0. [Краткая история JavaScript](https://habrahabr.ru/company/livetyping/blog/324196/-istoriya-javascript-v-tryoh-chastyah) 
 1. [Интерактивный курс (codeacademy)](https://www.codecademy.com/en/tracks/javascript) 
 2. [Основы программирования (hexlet)](https://ru.hexlet.io/courses/programming-basics)
 3. [JavaScript. Начало (hexlet)](https://ru.hexlet.io/courses/javascript_setup)
@@ -22,6 +23,7 @@
 ### Функциональное программирование
 1. [Функциональное программирование (Екатерина Поршнева)](https://www.youtube.com/watch?v=8nWQCcqUwR0&feature=youtu.be)
 2. [Как функциональное программирование может сделать жизнь проще (Я.субботник)](https://www.youtube.com/watch?v=t4AhK0oWd9I)
+3. [Использование map и reduce в функциональном JavaScript](https://habrahabr.ru/company/nixsolutions/blog/324342)
 
 ======
 
@@ -61,11 +63,12 @@
 4. [Основы (CodeDojo)](https://www.youtube.com/watch?v=4YfsAz-sNAo&list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q)
 5. [Знакомство с EcmaScript 6 (loftblog)](https://loftblog.ru/material/1-znakomstvo-s-ecmascript-6-let-const/) 
 6. [Классы в ECMAScript 6](http://frontender.info/es6-classes-final/)
-7. [Промисы на примере бургер-вечеринки](https://habrahabr.ru/company/nixsolutions/blog/323066/?mobile=no)
-8. [ES6 compatibility table](https://kangax.github.io/compat-table/es6/)
-9. [Babel - кроссбраузерная поддержка ES-2015 (официальный сайт)](https://babeljs.io/)
-10. [Babel ESLint](https://github.com/babel/babel-eslint) 
-11. [es6console](https://es6console.com/)
+7. [Understanding ES6 Classes](https://medium.com/papdit/understanding-es6-classes-ada7c14e0213#.cynm2gujz)
+8. [Промисы на примере бургер-вечеринки](https://habrahabr.ru/company/nixsolutions/blog/323066/?mobile=no)
+9. [ES6 compatibility table](https://kangax.github.io/compat-table/es6/)
+10. [Babel - кроссбраузерная поддержка ES-2015 (официальный сайт)](https://babeljs.io/)
+11. [Babel ESLint](https://github.com/babel/babel-eslint) 
+12. [es6console](https://es6console.com/)
 
 ======
 
