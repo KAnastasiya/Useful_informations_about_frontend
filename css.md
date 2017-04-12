@@ -6,7 +6,7 @@
 4. [Учебник CSS3 (professorweb)](http://professorweb.ru/my/css/css_theory/level1/css_index.php)
 5. [Интерактивные уроки (codeacademy)](https://www.codecademy.com/en/tracks/web)
 6. [Интерактивные уроки (htmlacademy)](https://htmlacademy.ru/courses)
-7. [D_Makfarland_-_Bolshaya_Kniga_CSS3_bestsellery.pdf](https://vk.com/doc10903696_289804774?hash=bf04f3e08c8247c82f&dl=23b84e66991136fa80)
+7. [D._Makfarland_-_Большая книга CSS3](https://vk.com/doc10903696_289804774?hash=bf04f3e08c8247c82f&dl=23b84e66991136fa80)
 8. [Уроки по HTML и CSS](https://webref.ru/layout/learn-html-css)
 9. [HTML5 и CSS3 на примерах](https://webref.ru/layout/html5-css3)
 10. [Как верстать на HTML5 и CSS3](https://webref.ru/layout/howtocodeinhtml)
