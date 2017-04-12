@@ -157,8 +157,10 @@
 3. [Как быстро работать с GIT](https://geekbrains.ru/events/218)
 4. [Обучающий курс от codeacademy](https://www.codecademy.com/learn/learn-git)
 5. [Книга "О Git"](http://howtodoit.com.ua/wp-content/uploads/2014/02/progit.ru_.pdf)
-6. [Советы по написанию коммитов (habrahabr)](https://habrahabr.ru/company/Voximplant/blog/276695/)
-7. [GitKraken](https://www.gitkraken.com/) - кроссплатформенное приложение для контроля версий
+6. [githowto](https://githowto.com/)
+7. [try Git](https://try.github.io/levels/1/challenges/1)
+8. [Советы по написанию коммитов (habrahabr)](https://habrahabr.ru/company/Voximplant/blog/276695/)
+9. [GitKraken](https://www.gitkraken.com/) - кроссплатформенное приложение для контроля версий
 
 ======
 
