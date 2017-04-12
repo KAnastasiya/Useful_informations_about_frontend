@@ -53,13 +53,14 @@
 
 ### Fonts
 1. [Коллекция шрифтов](http://fonts.in.ua/font)
-2. [Подключение ttf- и eof-шрифтов через @font-face](https://webref.ru/layout/html5-css3/text/font-face)
-3. [@font-face в деталях](http://xiper.net/collect/html-and-css-tricks/typographics/font-face-in-the-details)
-4. [Bulletproof font face](https://github.com/CSSLint/csslint/wiki/bulletproof-font-face)
-5. [Конвертер шрифтов](http://www.font2web.com/)
-6. [Подключение нестандартных шрифтов (часть 1)](https://webfont.ru/blog/about-font-face-part-one/)
-7. [Подключение нестандартных шрифтов (часть 1)](https://webfont.ru/blog/about-font-face-part-two/)
-8. [Оптимизация шрифтов](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
+2. [Google Fonts](https://fonts.google.com/)
+3. [Font Squirrel](https://www.fontsquirrel.com/)
+4. [Подключение ttf- и eof-шрифтов через @font-face](https://webref.ru/layout/html5-css3/text/font-face)
+5. [@font-face в деталях](http://xiper.net/collect/html-and-css-tricks/typographics/font-face-in-the-details)
+6. [Bulletproof font face](https://github.com/CSSLint/csslint/wiki/bulletproof-font-face)
+7. Подключение нестандартных шрифтов: [часть 1](https://webfont.ru/blog/about-font-face-part-one/) и [часть 2](https://webfont.ru/blog/about-font-face-part-two/)
+8. Конвертер шрифтов: [font2web](http://www.font2web.com/) и [onlinefontconverter](https://onlinefontconverter.com/)
+9. [Оптимизация шрифтов](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
 
 ======
 
