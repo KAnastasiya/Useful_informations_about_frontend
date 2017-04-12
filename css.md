@@ -12,7 +12,9 @@
 10. [Как верстать на HTML5 и CSS3](https://webref.ru/layout/howtocodeinhtml)
 12. [HTML & CSS is hard. A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
 13. [Изучаем css-селекторы в игровой форме](https://flukeout.github.io/)
-14. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
+14. [Псевдоселекторы в CSS3](https://www.youtube.com/watch?v=kdH-MscuiU8)
+15. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
+16. [Использование viewport-единиц в типографике](http://webbeaver.ru/future/viewport-unit/?ct=t(hamail_20160415)) 
 
 ======
 
