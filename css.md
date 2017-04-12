@@ -186,8 +186,9 @@
 6. [CSS gradient animator](https://www.gradient-animator.com/)
 7. [CSS Filter Effects](http://html5-demos.appspot.com/static/css/filters/index.html)
 8. [CSS clip-path maker](http://bennettfeely.com/clippy/) 
-9. [Specificity Online-Calculator](http://specificity.keegan.st/)
-
+9. [Парсинг спрайтов](http://www.spritecow.com/)
+10. [Specificity Online-Calculator](http://specificity.keegan.st/)
+11. [nth-child tester](https://css-tricks.com/examples/nth-child-tester/)
 ======
 
 ### Проверка знаний
