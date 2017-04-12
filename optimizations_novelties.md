@@ -11,6 +11,7 @@
 - [Свойства для выравнивания всего и их новые тайны](http://css-live.ru/articles-css/svojstva-dlya-vyravnivaniya-vsego-i-ix-novye-tajny.html)
 - [Как грид-раскладка (Grid Layout) провела лето](http://css-live.ru/articles/kak-grid-raskladka-grid-layout-provela-leto.html)
 - [Grid garden (game)](http://cssgridgarden.com)
+- [Griddy](http://www.griddy.io/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=griddy--interaktivnaya-pesochnitsa-dlya-izuch)
 - [Firefox. CSS Grid Inspector](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
 
 ======
@@ -31,7 +32,12 @@
 
 ======
 
-### Прочие новинки CSS 
+### Новинки HTML
+- [Заметка: как использовать HTML "picture" для адаптивных изображений](https://webdesign.tutsplus.com/ru/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015)
+
+======
+
+### Новинки CSS 
 1. [Improve the Look of Links - text–decoration–skip и text–decoration–color](http://thenewcode.com/1168/Improve-the-Look-of-Links-with-the-CSS-Text-Decoration-Module?ct=t(hamail_20170115))
 2. [Раздельные функции CSS-трансформации (отдельные свойства, использование css-переменных)](http://css-live.ru/tricks/tryuk-razdelnye-funkcii-css-transformacii.html)
 3. [Background-blend-mode](http://css.yoksel.ru/background-blend-mode/) 
@@ -62,11 +68,13 @@
 2. [Клиентская оптимизация в мобильном вебе](https://www.youtube.com/watch?v=PLtLUegK9z0)
 3. [Основы клиентствого кеширования](http://html5.by/blog/cache)
 4. [Оптимизация фронтенда под браузеры](https://habrahabr.ru/company/badoo/blog/322988/?mobile=no)
-5. [Лёгкий сайт или как посадить браузер на диету](https://habrahabr.ru/post/178561/)
-6. [Webpack для реальных задач (уменьшение фронтенда и улучшение кеширования)](https://www.youtube.com/watch?v=8op8ZtKsrSA)
-7. [PageSpeed Insights (тест на производительность от Google)](https://developers.google.com/speed/pagespeed/insights/)
-8. [Is your web page mobile-friendly?](https://search.google.com/search-console/mobile-friendly?utm_source=psi&utm_medium=link&utm_campaign=psi-ux-banner&hl=en-US&url=https%3A%2F%2Fkanastasiya.github.io%2FKlumba%2F%23%2F)
-9. [Тестирование сайта на доступность](http://wave.webaim.org/report#/google.com)
+5. [Оптимизация вёрстки сайта](https://youtu.be/1_7Z_jdTJK4)
+6. [Лёгкий сайт или как посадить браузер на диету](https://habrahabr.ru/post/178561/)
+7. [Webpack для реальных задач (уменьшение фронтенда и улучшение кеширования)](https://www.youtube.com/watch?v=8op8ZtKsrSA)
+8. [PageSpeed Insights (тест на производительность от Google)](https://developers.google.com/speed/pagespeed/insights/)
+9. [Is your web page mobile-friendly?](https://search.google.com/search-console/mobile-friendly?utm_source=psi&utm_medium=link&utm_campaign=psi-ux-banner&hl=en-US&url=https%3A%2F%2Fkanastasiya.github.io%2FKlumba%2F%23%2F)
+10. [Тестирование сайта на доступность](http://wave.webaim.org/report#/google.com)
+11. [Проверьте скорость своего сайта](https://webo.in/)
 
 ======
 
