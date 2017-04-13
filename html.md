@@ -14,13 +14,14 @@
 12. [HTML5 и CSS3 на примерах](https://webref.ru/layout/html5-css3)
 13. [Как верстать на HTML5 и CSS3](https://webref.ru/layout/howtocodeinhtml)
 14. [HTML & CSS is hard. A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
-15. [Кнопка или ссылка?](https://www.youtube.com/watch?v=MWJKwn_gKR4)
-16. [Шаблонизация (frontender)](http://frontender.info/template/) 
-17. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
-18. [Принципы написания однородного HTML](http://forwebdev.ru/html/principles-for-writing-idiomatic-html/)
-19. [Что такое Viewport, как он работает и для чего вообще нужен](http://frontender.com.ua/mobile-web/wtf-viewport/)
-20. [10 HTML Tag Crimes You Really Shouldn’t Commit](http://line25.com/articles/10-html-tag-crimes-you-really-shouldnt-commit)
-21. [Проверка валидности кода](https://validator.w3.org/nu/)
+15. [How You Can Use HTML5 Custom Data Attributes and Why](https://www.sitepoint.com/how-why-use-html5-custom-data-attributes/)
+16. [Кнопка или ссылка?](https://www.youtube.com/watch?v=MWJKwn_gKR4)
+17. [Шаблонизация (frontender)](http://frontender.info/template/) 
+18. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
+19. [Принципы написания однородного HTML](http://forwebdev.ru/html/principles-for-writing-idiomatic-html/)
+20. [Что такое Viewport, как он работает и для чего вообще нужен](http://frontender.com.ua/mobile-web/wtf-viewport/)
+21. [10 HTML Tag Crimes You Really Shouldn’t Commit](http://line25.com/articles/10-html-tag-crimes-you-really-shouldnt-commit)
+22. [Проверка валидности кода](https://validator.w3.org/nu/)
 
 ======
 
