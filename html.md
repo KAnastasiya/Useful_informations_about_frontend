@@ -18,8 +18,9 @@
 16. [Шаблонизация (frontender)](http://frontender.info/template/) 
 17. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
 18. [Принципы написания однородного HTML](http://forwebdev.ru/html/principles-for-writing-idiomatic-html/)
-19. [Проверка валидности кода](https://validator.w3.org/nu/)
-
+19. [Что такое Viewport, как он работает и для чего вообще нужен](http://frontender.com.ua/mobile-web/wtf-viewport/)
+20. [10 HTML Tag Crimes You Really Shouldn’t Commit](http://line25.com/articles/10-html-tag-crimes-you-really-shouldnt-commit)
+21. [Проверка валидности кода](https://validator.w3.org/nu/)
 
 ======
 
