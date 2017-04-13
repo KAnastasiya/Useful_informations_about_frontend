@@ -173,8 +173,9 @@
 6. [githowto](https://githowto.com/)
 7. [try Git](https://try.github.io/levels/1/challenges/1)
 8. [Git. Коллекция самых популярных вопросов](http://firstaidgit.ru/#/)
-9. [Советы по написанию коммитов (habrahabr)](https://habrahabr.ru/company/Voximplant/blog/276695/)
-10. [GitKraken](https://www.gitkraken.com/) - кроссплатформенное приложение для контроля версий
+9. [Git Tips](https://github.com/Imangazaliev/git-tips/blob/master/README.md)
+10. [Советы по написанию коммитов (habrahabr)](https://habrahabr.ru/company/Voximplant/blog/276695/)
+11. [GitKraken](https://www.gitkraken.com/) - кроссплатформенное приложение для контроля версий
 
 ======
 
