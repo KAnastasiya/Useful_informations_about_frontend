@@ -51,8 +51,9 @@
 
 1. [Формирование файла .eslintrc](https://pirosikick.github.io/eslintrc-editor/)
 2. [ESLint rules]( http://eslint.org/docs/rules/)
-3. [Упрощенный набор правил от airbnb](https://www.npmjs.com/package/eslint-config-airbnb-base)
-4. [Подный набор правил от airbnb (для React)](https://www.npmjs.com/package/eslint-config-airbnb)
+3. [ESLint. Основы (monsterlessons)](http://monsterlessons.com/project/lessons/eslint)
+4. [Упрощенный набор правил от airbnb](https://www.npmjs.com/package/eslint-config-airbnb-base)
+5. [Подный набор правил от airbnb (для React)](https://www.npmjs.com/package/eslint-config-airbnb)
 
 ======
 
@@ -61,14 +62,15 @@
 2. [Обзор (learn.javascript)](https://learn.javascript.ru/es-modern)
 3. [Основы (hillel)](http://live.itschool-hillel.org/znakomstvo-s-ecmascript-2015)
 4. [Основы (CodeDojo)](https://www.youtube.com/watch?v=4YfsAz-sNAo&list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q)
-5. [Знакомство с EcmaScript 6 (loftblog)](https://loftblog.ru/material/1-znakomstvo-s-ecmascript-6-let-const/) 
-6. [Классы в ECMAScript 6](http://frontender.info/es6-classes-final/)
-7. [Understanding ES6 Classes](https://medium.com/papdit/understanding-es6-classes-ada7c14e0213#.cynm2gujz)
-8. [Промисы на примере бургер-вечеринки](https://habrahabr.ru/company/nixsolutions/blog/323066/?mobile=no)
-9. [ES6 compatibility table](https://kangax.github.io/compat-table/es6/)
-10. [Babel - кроссбраузерная поддержка ES-2015 (официальный сайт)](https://babeljs.io/)
-11. [Babel ESLint](https://github.com/babel/babel-eslint) 
-12. [es6console](https://es6console.com/)
+5. [Основы (monsterlessons)](http://monsterlessons.com/project/series/es6-dlya-nachinayushih)
+6. [Знакомство с EcmaScript 6 (loftblog)](https://loftblog.ru/material/1-znakomstvo-s-ecmascript-6-let-const/) 
+7. [Классы в ECMAScript 6](http://frontender.info/es6-classes-final/)
+8. [Understanding ES6 Classes](https://medium.com/papdit/understanding-es6-classes-ada7c14e0213#.cynm2gujz)
+9. [Промисы на примере бургер-вечеринки](https://habrahabr.ru/company/nixsolutions/blog/323066/?mobile=no)
+10. [ES6 compatibility table](https://kangax.github.io/compat-table/es6/)
+11. [Babel - кроссбраузерная поддержка ES-2015 (официальный сайт)](https://babeljs.io/)
+12. [Babel ESLint](https://github.com/babel/babel-eslint) 
+13. [es6console](https://es6console.com/)
 
 ======
 
@@ -113,6 +115,8 @@
 31. [Асинхронный JavaScript против отложенного](https://habrahabr.ru/post/323790/)
 32. [Обратные вызовы на примере списка домашних дел](https://htmlacademy.ru/blog/155-understanding-callbacks?utm_source=forwebdev&utm_medium=announcement&utm_campaign=obratnye-vyzovy-na-primere-spiska-domashn)
 33. [Ад обратных вызовов](http://callbackhell.ru/)
+34. [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/) 
+35. [12 Extremely Useful Hacks for JavaScript](https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/) 
 
 ======
 
