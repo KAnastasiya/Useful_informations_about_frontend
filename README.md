@@ -110,7 +110,7 @@
 ======
 
 ### Рабочее место разработчика
-[Настроим рабочее место frontend-разработчика](https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/developer-workspace.md)
+[Настроим рабочее место frontend-разработчика](https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/workflow.md)
 
 ======
 
