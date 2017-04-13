@@ -159,8 +159,9 @@
 5. [Книга "О Git"](http://howtodoit.com.ua/wp-content/uploads/2014/02/progit.ru_.pdf)
 6. [githowto](https://githowto.com/)
 7. [try Git](https://try.github.io/levels/1/challenges/1)
-8. [Советы по написанию коммитов (habrahabr)](https://habrahabr.ru/company/Voximplant/blog/276695/)
-9. [GitKraken](https://www.gitkraken.com/) - кроссплатформенное приложение для контроля версий
+8. [Git. Коллекция самых популярных вопросов](http://firstaidgit.ru/#/)
+9. [Советы по написанию коммитов (habrahabr)](https://habrahabr.ru/company/Voximplant/blog/276695/)
+10. [GitKraken](https://www.gitkraken.com/) - кроссплатформенное приложение для контроля версий
 
 ======
 
