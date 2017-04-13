@@ -149,11 +149,16 @@
 
 ======
 
-### Package manager
-1. [npm (официальный сайт)](https://www.npmjs.com/) 
-2. [npm for Beginners](https://www.impressivewebs.com/npm-for-beginners-a-guide-for-)
-3. [yarn (официальный сайт)](https://yarnpkg.com/en/)
-4. [Yarn (monsterlessons)](http://monsterlessons.com/project/lessons/yarn-paketnyj-menedzher-ot-facebook) - менеджер пакетов от facebook
+### Package management
+*Инструменты для автоматизации установки, обновления, конфигурации и удаления библиотек*
+
+##### NPM
+1. [Официальный сайт](https://www.npmjs.com/) 
+2. [For Beginners](https://www.impressivewebs.com/npm-for-beginners-a-guide-for-)
+
+##### Yarn
+3. [Официальный сайт](https://yarnpkg.com/en/)
+4. [Видео от monsterlessons](http://monsterlessons.com/project/lessons/yarn-paketnyj-menedzher-ot-facebook) - менеджер пакетов от facebook
 
 ======
 
