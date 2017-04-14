@@ -32,8 +32,12 @@
 
 ======
 
-### Новинки HTML
-- [Заметка: как использовать HTML "picture" для адаптивных изображений](https://webdesign.tutsplus.com/ru/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015)
+### Адаптивные изображения с помощью атрибута srcset
+1. [Адаптивные изображения на сайте: создание с помощью атрибута srcset](https://webformyself.com/adaptivnye-izobrazheniya-na-sajte-sozdanie-s-pomoshhyu-atributa-srcset/)
+2. [Теперь WebKit поддерживает srcset, и это здорово! (frontender)](https://frontender.info/webkit-implements-srcset-and-why-its-a-good-thing/)
+3. [Как использовать HTML "picture" для адаптивных изображений](https://webdesign.tutsplus.com/ru/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015)
+4. [Тег picture (habrahabr)](https://habrahabr.ru/post/237991/)
+5. [Адаптивное содержимое сайта (видео от Useful Web)](https://www.youtube.com/watch?v=gjlyDPJh0Es)
 
 ======
 
