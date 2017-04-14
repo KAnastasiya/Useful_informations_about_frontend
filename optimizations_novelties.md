@@ -47,9 +47,10 @@
 3. [Background-blend-mode](http://css.yoksel.ru/background-blend-mode/) (управление режимами наложения слоев фона, заданного в CSS)
 4. [Знакомство с object-fit](http://css-live.ru/articles/znakomstvo-s-object-fit.html) (кадрирование изображений)
 5. [position: sticky](https://htmlhook.ru/position-sticky.html)
-6. [Новый display:flow-root — не clearfix, но что это и зачем?](http://css-live.ru/faq/displayflow-root-not-clearfix.html)
-7. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
-8. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
+6. [CSS-функция element()](http://css-live.ru/articles/css-funkciya-element.html) (отображение части сайта как картинки в реальном времени)
+7. [Новый display:flow-root — не clearfix, но что это и зачем?](http://css-live.ru/faq/displayflow-root-not-clearfix.html)
+8. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
+9. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
 
 ======
 
