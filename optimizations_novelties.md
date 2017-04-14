@@ -44,8 +44,8 @@
 ### Новинки CSS 
 1. [Improve the Look of Links - text–decoration–skip и text–decoration–color](http://thenewcode.com/1168/Improve-the-Look-of-Links-with-the-CSS-Text-Decoration-Module?ct=t(hamail_20170115))
 2. [Раздельные функции CSS-трансформации (отдельные свойства, использование css-переменных)](http://css-live.ru/tricks/tryuk-razdelnye-funkcii-css-transformacii.html)
-3. [Background-blend-mode](http://css.yoksel.ru/background-blend-mode/) 
-4. [Знакомство с object-fit](http://css-live.ru/articles/znakomstvo-s-object-fit.html) 
+3. [Background-blend-mode](http://css.yoksel.ru/background-blend-mode/) (управление режимами наложения слоев фона, заданного в CSS)
+4. [Знакомство с object-fit](http://css-live.ru/articles/znakomstvo-s-object-fit.html) (кадрирование изображений)
 5. [position: sticky](https://htmlhook.ru/position-sticky.html)
 6. [Новый display:flow-root — не clearfix, но что это и зачем?](http://css-live.ru/faq/displayflow-root-not-clearfix.html)
 7. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
