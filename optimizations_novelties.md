@@ -40,6 +40,10 @@
 5. [Адаптивное содержимое сайта (видео от Useful Web)](https://www.youtube.com/watch?v=gjlyDPJh0Es)
 
 ======
+### Новинки HTML
+1. [Что такое <datalist> в HTML5 и где его использовать](https://frontender.info/what-are-html5-datalists-and-when-to-use-them/)
+
+======
 
 ### Новинки CSS 
 1. [Improve the Look of Links - text–decoration–skip и text–decoration–color](http://thenewcode.com/1168/Improve-the-Look-of-Links-with-the-CSS-Text-Decoration-Module?ct=t(hamail_20170115))
@@ -49,8 +53,10 @@
 5. [position: sticky](https://htmlhook.ru/position-sticky.html)
 6. [CSS-функция element()](http://css-live.ru/articles/css-funkciya-element.html) (отображение части сайта как картинки в реальном времени)
 7. [Новый display:flow-root — не clearfix, но что это и зачем?](http://css-live.ru/faq/displayflow-root-not-clearfix.html)
-8. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
-9. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
+8. [CSS property shape-outside](https://css-tricks.com/almanac/properties/s/shape-outside/)
+9. [CSS property all](https://css-tricks.com/almanac/properties/a/all/)
+10. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
+11. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
 
 ======
 
