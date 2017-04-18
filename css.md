@@ -191,4 +191,4 @@
 3. [certification.mail.ru (повышенная сложность)](https://certification.mail.ru/tests/css-timechallenge/start/)
 4. [crowdtest.org](http://crowdtest.org/ru/css)
 5. [geekbrains.ru (начальный уровень)](https://geekbrains.ru/tests/2)
-6. [geekbrains.ru (вредний уровень)](https://geekbrains.ru/tests/17)
+6. [geekbrains.ru (средний уровень)](https://geekbrains.ru/tests/17)
