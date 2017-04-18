@@ -34,14 +34,18 @@
 ======
 
 ### Code Styles
-1. [htmlAcademy](https://htmlacademy.github.io/codeguide/)
-2. [Mark Otto (Director of Design at GitHub. Creator of Bootstrap)](http://codeguide.co/)
-3. [gitHub](http://primercss.io/guidelines/) 
+*Правила и советы для написания однородного кода*
+
+#### HTML and CSS
+1. [Google](https://google.github.io/styleguide/htmlcssguide.html)
+2. [htmlAcademy](https://htmlacademy.github.io/codeguide/)
+3. [Mark Otto (Director of Design at GitHub. Creator of Bootstrap)](http://codeguide.co/)
 4. [idiomatic css](https://github.com/necolas/idiomatic-css/tree/master/translations/ru-RU)
-5. [idiomatic js](https://github.com/rwaldron/idiomatic.js/tree/master/translations/ru_RU) 
-6. [learn.javascript.ru](https://learn.javascript.ru/coding-style)
-7. [scss](http://nicothin.github.io/idiomatic-pre-CSS/)
-8. [airbnb](https://github.com/airbnb/javascript)
+
+#### JavaScript
+1. [learn.javascript.ru](https://learn.javascript.ru/coding-style) 
+2. [airbnb](https://github.com/airbnb/javascript) 
+3. [idiomatic js](https://github.com/rwaldron/idiomatic.js/tree/master/translations/ru_RU)  
 
 ======
 
