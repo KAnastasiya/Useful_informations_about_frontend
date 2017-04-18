@@ -73,6 +73,25 @@
 
 ======
 
+### CSS Methodologies
+1. Writing modular CSS (Zell Liew): [part 1 (BEM)](https://zellwk.com/blog/css-architecture-1/), [part 2 (BEM + OOCSS +Atomic Design)](https://zellwk.com/blog/css-architecture-2/), [part 3 (file structure and organization)] (https://zellwk.com/blog/css-architecture-3/)
+2. [Tame Unruly Style Sheets With These Three CSS Methodologies](https://www.sitepoint.com/tame-unruly-style-sheets-three-css-architecture-methodologies/) (BEM, SMACSS, ECSS)
+3. [Способы организации CSS-кода (habrahabr)](https://habrahabr.ru/post/256109/)
+
+#### Методолия БЕМ
+1. [Официальная документация](https://ru.bem.info/)
+2. [С чего всё начиналось и зачем это всё нужно (habrahabr)](https://habrahabr.ru/company/yandex/blog/276035/)
+3. [Все о БЕМ (Игорь Зенич)](https://www.youtube.com/watch?v=kBgHdSOj33A)
+4. [БЭМ и CSS предпроцессоры (nicothin)](http://nicothin.github.io/idiomatic-pre-CSS/)
+
+#### Другие методологии
+1. [Object Oriented CSS (OOCSS)](https://github.com/stubbornella/oocss/wiki)
+2. [Scalable and Modular Architecture for CSS (SMACSS)](https://smacss.com/book/)
+3. [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
+4. [Enduring CSS (ECSS)](http://ecss.io/)
+
+======
+
 ### CSS preprocessors
 *Надстройка над CSS, которая добавляет ранее недоступные возможности для CSS, с помощью новых синтаксических конструкций. Основная задача препроцессора — это предоставление удобных синтаксических конструкций для разработчика, чтобы упростить, и тем самым, ускорить разработку и поддержу стилей в проектах. CSS препроцессоры преобразуют код, написанный с использованием препроцессорного языка, в чистый и валидный CSS-код.*
 
