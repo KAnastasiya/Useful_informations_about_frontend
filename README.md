@@ -39,7 +39,7 @@
 #### HTML and CSS
 1. [Google](https://google.github.io/styleguide/htmlcssguide.html)
 2. [htmlAcademy](https://htmlacademy.github.io/codeguide/)
-3. [Mark Otto (Director of Design at GitHub. Creator of Bootstrap)](http://codeguide.co/)
+3. [Mark Otto](http://codeguide.co/) (Director of Design at GitHub. Creator of Bootstrap)
 4. [idiomatic css](https://github.com/necolas/idiomatic-css/tree/master/translations/ru-RU)
 
 #### JavaScript
