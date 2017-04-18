@@ -9,7 +9,9 @@
 7. [Учебник JavaScript (professorweb)](http://professorweb.ru/my/javascript/js_theory/level1/javascript_index.php)
 8. [Современный учебник JavaScript (learn.javascript)](https://learn.javascript.ru/)
 9. [Выразительный JavaScript (Марейн Хавербек)](http://wickedblog.ru/wp-content/uploads/2015/07/eloquentjavascript_ru.pdf)
-10. [Справочник (w3schools)](http://www.w3schools.com/js/default.asp)
+10. [Н.Морган - JavaScript для детей](https://drive.google.com/file/d/0BxSD8FAEX1XfaFAwQWdOUkZlRnM/view)
+11. [С.Макконнелл - Совершенный код](https://www.bsuir.by/m/12_100229_1_98218.pdf)
+12. [Справочник (w3schools)](http://www.w3schools.com/js/default.asp)
 
 ======
 
@@ -117,6 +119,7 @@
 33. [Ад обратных вызовов](http://callbackhell.ru/)
 34. [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/) 
 35. [12 Extremely Useful Hacks for JavaScript](https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/) 
+36. [JavaScript’s Prototypal Inheritance Explained Using CSS(https://medium.freecodecamp.com/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4#.2r3bczq91)  
 
 ======
 
