@@ -74,7 +74,7 @@
 ======
 
 ### CSS Methodologies
-1. Writing modular CSS (Zell Liew): [part 1](https://zellwk.com/blog/css-architecture-1/) (BEM), [part 2](https://zellwk.com/blog/css-architecture-2/) (BEM + OOCSS +Atomic Design), [part 3] (https://zellwk.com/blog/css-architecture-3/) (file structure and organization)
+1. Writing modular CSS (Zell Liew): [part 1](https://zellwk.com/blog/css-architecture-1/) (BEM), [part 2](https://zellwk.com/blog/css-architecture-2/) (BEM + OOCSS +Atomic Design), [part 3](https://zellwk.com/blog/css-architecture-3/) (file structure and organization)
 2. [Tame Unruly Style Sheets With These Three CSS Methodologies](https://www.sitepoint.com/tame-unruly-style-sheets-three-css-architecture-methodologies/) (BEM, SMACSS, ECSS)
 3. [Способы организации CSS-кода (habrahabr)](https://habrahabr.ru/post/256109/)
 
