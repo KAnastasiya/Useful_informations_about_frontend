@@ -8,20 +8,20 @@
 6. [Избегаем распространенных ошибок в HTML5 разметке (habrahabr)](http://habrahabr.ru/post/124993/)
 7. [Section, article или div](http://webhitech.ru/notes/div-section-article/)
 8. [HTML5 Elements Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
-9. [Интерактивные курсы (htmlacademy)](https://htmlacademy.ru/courses)
-10. [Интерактивные курсы (codeacademy)](https://www.codecademy.com/en/tracks/web)
-11. [Уроки по HTML и CSS](https://webref.ru/layout/learn-html-css)
-12. [HTML5 и CSS3 на примерах](https://webref.ru/layout/html5-css3)
-13. [Как верстать на HTML5 и CSS3](https://webref.ru/layout/howtocodeinhtml)
-14. [HTML & CSS is hard. A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
-15. [How You Can Use HTML5 Custom Data Attributes and Why](https://www.sitepoint.com/how-why-use-html5-custom-data-attributes/)
-16. [Кнопка или ссылка?](https://www.youtube.com/watch?v=MWJKwn_gKR4)
-17. [Шаблонизация (frontender)](http://frontender.info/template/) 
-18. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
-19. [Принципы написания однородного HTML](http://forwebdev.ru/html/principles-for-writing-idiomatic-html/)
-20. [Что такое Viewport, как он работает и для чего вообще нужен](http://frontender.com.ua/mobile-web/wtf-viewport/)
-21. [10 HTML Tag Crimes You Really Shouldn’t Commit](http://line25.com/articles/10-html-tag-crimes-you-really-shouldnt-commit)
-22. [Проверка валидности кода](https://validator.w3.org/nu/)
+9. [DIVE INTO HTML5 (MARK PILGRIM)](http://diveintohtml5.info/index.html)
+10. [Интерактивные курсы (htmlacademy)](https://htmlacademy.ru/courses)
+11. [Интерактивные курсы (codeacademy)](https://www.codecademy.com/en/tracks/web)
+12. [Уроки по HTML и CSS](https://webref.ru/layout/learn-html-css)
+13. [HTML5 и CSS3 на примерах](https://webref.ru/layout/html5-css3)
+14. [Как верстать на HTML5 и CSS3](https://webref.ru/layout/howtocodeinhtml)
+15. [HTML & CSS is hard. A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
+16. [How You Can Use HTML5 Custom Data Attributes and Why](https://www.sitepoint.com/how-why-use-html5-custom-data-attributes/)
+17. [Кнопка или ссылка?](https://www.youtube.com/watch?v=MWJKwn_gKR4)
+18. [Шаблонизация (frontender)](http://frontender.info/template/) 
+19. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
+20. [Принципы написания однородного HTML](http://forwebdev.ru/html/principles-for-writing-idiomatic-html/)
+21. [Что такое Viewport, как он работает и для чего вообще нужен](http://frontender.com.ua/mobile-web/wtf-viewport/)
+22. [10 HTML Tag Crimes You Really Shouldn’t Commit](http://line25.com/articles/10-html-tag-crimes-you-really-shouldnt-commit)
 
 ======
 
@@ -68,6 +68,11 @@
 5. [Jade. Видео-обзор](https://www.youtube.com/watch?v=QCsFDi1cQIk)
 6. [Новая версия. Синтаксис](https://pugjs.org/api/migration-v2.html)
 7. [Html2Pug](http://html2jade.org/)
+
+======
+
+### Utils
+1. [Проверка валидности кода](https://validator.w3.org/nu/)
 
 ======
 
