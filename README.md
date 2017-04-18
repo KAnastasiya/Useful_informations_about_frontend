@@ -33,12 +33,6 @@
 
 ======
 
-### Методолия БЕМ
-1. [Методология веб-разработки БЕМ](https://ru.bem.info/)
-2. [Про БЕМ](https://habrahabr.ru/company/yandex/blog/276035/)
-
-======
-
 ### Code Styles
 1. [htmlAcademy](https://htmlacademy.github.io/codeguide/)
 2. [Mark Otto (Director of Design at GitHub. Creator of Bootstrap)](http://codeguide.co/)
