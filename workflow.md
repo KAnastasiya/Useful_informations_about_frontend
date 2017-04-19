@@ -93,7 +93,7 @@ app.listen(3000, function () {
 
 ### Utils
 1. [Статистика использования браузеров](http://gs.statcounter.com/#browser_version_partially_combined-ww-monthly-201501-201601)
-2. Проверка поддержки браузерами тех или иных возможностей и стандартов: [caniuse.com](caniuse.com) и [html5please.com](html5please.com)
+2. Проверка поддержки браузерами тех или иных возможностей и стандартов: [caniuse.com](caniuse.com), [html5please.com](html5please.com), [CSS3 Test](http://css3test.com/)
 3. [PLACEHOLD.IT - image placeholder service](https://placehold.it/)
 4. [HTML Code, Hexadecimal Code and HTML Entity for ASCII characters](http://www.character-code.com/)
 5. [Онлайн-генератор “рыбного текста”](http://www.blindtextgenerator.com/ru)
@@ -103,11 +103,10 @@ app.listen(3000, function () {
 9. [Online Request Maker](http://requestmaker.com/)
 10. [Стандарт аббревиатур языков](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
 11. [Сервис для учета времени](https://www.rescuetime.com/dashboard/for/the/day/of/2016-09-10)
-12. [CSS3 Test](http://css3test.com/) (this test checks which CSS3 features the browser recognizes, not whether they are implemented correctly)
-13. [Использование code coverage — нового инструмента Chrome DevTools](https://medium.com/devschacht/using-the-chrome-devtools-new-code-coverage-feature-6535bc26c97b) 
-14. [Консоль разработчика Google Chrome: десять неочевидных полезностей](https://m.habrahabr.ru/company/ruvds/blog/316132/)
-15. [Как пользоваться сервером SMTP Google](https://www.digitalocean.com/community/tutorials/smtp-google)
-16. [Берегите глаза](http://softhelp.org.ua/?p=6120)
+12. [Использование code coverage — нового инструмента Chrome DevTools](https://medium.com/devschacht/using-the-chrome-devtools-new-code-coverage-feature-6535bc26c97b) 
+13. [Консоль разработчика Google Chrome: десять неочевидных полезностей](https://m.habrahabr.ru/company/ruvds/blog/316132/)
+14. [Как пользоваться сервером SMTP Google](https://www.digitalocean.com/community/tutorials/smtp-google)
+15. [Берегите глаза](http://softhelp.org.ua/?p=6120)
 
 #### Обработка изображений
 1. PNG-оптимизаторы: [tinypng](https://tinypng.com/), [compresspng](http://compresspng.com/ru/) 
