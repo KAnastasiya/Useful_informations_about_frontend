@@ -93,7 +93,7 @@ app.listen(3000, function () {
 
 ### Utils
 1. [Статистика использования браузеров](http://gs.statcounter.com/#browser_version_partially_combined-ww-monthly-201501-201601)
-2. Проверка поддержки браузерами тех или иных возможностей и стандартов: [caniuse.com](caniuse.com), [html5please.com](html5please.com), [CSS3 Test](http://css3test.com/)
+2. Проверка поддержки браузерами различных возможностей/стандартов: [caniuse.com](caniuse.com), [html5please.com](html5please.com), [CSS3 Test](http://css3test.com/)
 3. [PLACEHOLD.IT - image placeholder service](https://placehold.it/)
 4. [HTML Code, Hexadecimal Code and HTML Entity for ASCII characters](http://www.character-code.com/)
 5. [Онлайн-генератор “рыбного текста”](http://www.blindtextgenerator.com/ru)
@@ -101,11 +101,11 @@ app.listen(3000, function () {
 7. [Онлайн-типограф](https://www.artlebedev.ru/tools/typograf/)
 8. [JSON-валидатор](https://jsonformatter.curiousconcept.com/)
 9. [Online Request Maker](http://requestmaker.com/)
-10. [Стандарт аббревиатур языков](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
-11. [Сервис для учета времени](https://www.rescuetime.com/dashboard/for/the/day/of/2016-09-10)
-12. [Использование code coverage — нового инструмента Chrome DevTools](https://medium.com/devschacht/using-the-chrome-devtools-new-code-coverage-feature-6535bc26c97b) 
-13. [Консоль разработчика Google Chrome: десять неочевидных полезностей](https://m.habrahabr.ru/company/ruvds/blog/316132/)
-14. [Как пользоваться сервером SMTP Google](https://www.digitalocean.com/community/tutorials/smtp-google)
+10. [Использование code coverage — нового инструмента Chrome DevTools](https://medium.com/devschacht/using-the-chrome-devtools-new-code-coverage-feature-6535bc26c97b) 
+11. [Консоль разработчика Google Chrome: десять неочевидных полезностей](https://m.habrahabr.ru/company/ruvds/blog/316132/)
+12. [Как пользоваться сервером SMTP Google](https://www.digitalocean.com/community/tutorials/smtp-google)
+13. [Стандарт аббревиатур языков](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
+14. [Сервис для учета времени](https://www.rescuetime.com/dashboard/for/the/day/of/2016-09-10)
 15. [Берегите глаза](http://softhelp.org.ua/?p=6120)
 
 #### Обработка изображений
