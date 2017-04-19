@@ -13,8 +13,9 @@
 12. [HTML & CSS is hard. A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
 13. [Изучаем css-селекторы в игровой форме](https://flukeout.github.io/)
 14. [Псевдоселекторы в CSS3](https://www.youtube.com/watch?v=kdH-MscuiU8)
-15. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
-16. [Использование viewport-единиц в типографике](http://webbeaver.ru/future/viewport-unit/?ct=t(hamail_20160415)) 
+15. Позиционирование (geekbrains): [часть 1](https://geekbrains.ru/events/203) и [часть 2](https://geekbrains.ru/events/214)
+16. [Модульные сетки в HTML/CSS](https://www.youtube.com/watch?v=f2ypR_-4ka0)
+17. [Изучение CSS Разметки](http://learnlayout.com/)
 
 ======
 
@@ -26,18 +27,18 @@
 
 ======
 
-### Сброс стилей
+### Сброс/нормализация стилей
 1. [Normalize.css](https://github.com/necolas/normalize.css/) - приведение стилей всех элементов к единому отображению во всех браузерах
 2. [Reset CSS](http://meyerweb.com/eric/tools/css/reset/) - полный сброс стилей для всеъ элементов
 **Примечание:** *более предпочтителен 1-ый вариант*
 
 ======
 
-### Анимации
-1. [Руководство по CSS3-анимациям (frontender)](http://frontender.info/ochen-prostoe-rukovodstvo-po-css-animatsiyam/)
-2. [CSS3 3D трансформации](https://html5book.ru/3d-transform/)
-3. [Сoлнечная система на чистом css (2D и 3D)](https://tproger.ru/translations/solar-system-css3-3/)
-4. Готовые CSS-анимации: [текста](http://daneden.github.io/animate.css/); [кнопок, диалогов, списков...](http://h5bp.github.io/Effeckt.css/), [появления картинок](http://www.minimamente.com/example/magic_animations/), [hover-эффектов](http://ianlunn.github.io/Hover/), [загрузки данных](http://projects.lukehaas.me/css-loaders/), [всплывающих подсказок](http://kazzkiq.github.io/balloon.css/), [всякого разного](http://cssanimate.com/)
+### Float-ы
+1. [Все о Float](http://softwaremaniacs.org/blog/2005/12/01/css-layout-float/)
+2. [Очистка float-ов (clearfix)](http://webformyself.com/ochistka-plavayushhix-elementov-obzor-razlichnyx-metodov-clearfix/)
+3. [Варианты «clearfix-хака» и его замен: сводная таблица](http://css-live.ru/articles-css/clearfix-block-formatting-context-methods-cheatsheet.html)
+4. [The very latest clearfix reloaded](http://cssmojo.com/the-very-latest-clearfix-reloaded/)
 
 ======
 
@@ -70,6 +71,25 @@
 ### Media Queries
 1. [Адаптивный и мобильный дизайн с CSS3 (habrahabr)](http://habrahabr.ru/post/119127/)
 2. [Медиазапросы: width против device-width (habrahabr)](https://habrahabr.ru/post/254871/)
+
+======
+
+### Анимации
+1. [Руководство по CSS3-анимациям (frontender)](http://frontender.info/ochen-prostoe-rukovodstvo-po-css-animatsiyam/)
+2. [CSS3 3D трансформации](https://html5book.ru/3d-transform/)
+3. [Сoлнечная система на чистом css (2D и 3D)](https://tproger.ru/translations/solar-system-css3-3/)
+4. Готовые CSS-анимации: [текста](http://daneden.github.io/animate.css/); [кнопок, диалогов, списков...](http://h5bp.github.io/Effeckt.css/), [появления картинок](http://www.minimamente.com/example/magic_animations/), [hover-эффектов](http://ianlunn.github.io/Hover/), [загрузки данных](http://projects.lukehaas.me/css-loaders/), [всплывающих подсказок](http://kazzkiq.github.io/balloon.css/), [всякого разного](http://cssanimate.com/)
+
+======
+
+### Полезные CSS-свойства 
+1. [currentColor](http://getinstance.info/articles/css/extending-the-color-cascade-with-the-css-currentcolor-variable/) (это первая css-переменная; ее значением является значение свойства color соответствующего элемента)
+2. [attr()](https://tympanus.net/codrops/css_reference/attr/) (функция, которая возвращает значение указанного атрибута соответствующего DOM-элемента)
+3. [pointer-events](http://positivecrash.com/pointer-events_css/) (позволяет контролировать когда, как и может ли вообще указатель мыши взаимодействовать с элементом)
+4. [background-clip](http://css-live.ru/articles-css/background-clip-use-cases.html) (позволяет обрезать "лишнюю" часть изображения (кадрировать изображение))
+5. [writing-mode](https://24ways.org/2016/css-writing-modes/?ct=t(hamail_20170115)) (устанавливает направление текста)
+6. [CSS3 columns](http://www.webdesignerdepot.com/2013/03/how-to-use-css3-columns/) (свойства для создания многоколончатого текстового контента (газетного образца))
+7. [@-правила CSS](http://frontender.info/the-at-rules-of-css/) (@media, @keyframes, @supports...)
 
 ======
 
@@ -146,46 +166,41 @@
 6. [stylelint-config-standard (набор правил для линтинга)](https://github.com/stylelint/stylelint-config-standard)
 7. [Stylelint Config Generator](https://maximgatilin.github.io/stylelint-config/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=stylelint-config-generator--dialogovyy-i)
 
-
 ======
 
 ### Советы и полезные приемы
-1. [Каскадирование стилей и специфичность селекторов (habrahabr)](https://habrahabr.ru/post/278477/)
+1. [Каскадирование и специфичность (habrahabr)](https://habrahabr.ru/post/278477/)
 2. [On :not and Specificity](http://bitsofco.de/on-not-and-specificity/)
-3. Позиционирование (geekbrains): [часть 1](https://geekbrains.ru/events/203) и [часть 2](https://geekbrains.ru/events/214)
-4. [Изучение CSS Разметки](http://learnlayout.com/)
-5. [Боремся со схлопыванием margin (habrahabr)](https://habrahabr.ru/post/257327/)
-6. [«Загадочные отступы» между inline-элементами (css-live)](http://css-live.ru/articles/zagadochnye-otstupy-mezhdu-inlajn-blokami.html)
-7. [Fighting the Space Between Inline Block Elements (css-tricks)](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
-8. [Как убрать лишние отступы у img внутри блока](http://vaden-pro.ru/blog/css/lishnie-otstupy-img)
-9. [Textarea. Как избавиться от отступа снизу](http://www.sql.ru/forum/1051967/textarea-i-otstup-snizu)
-10. [Все о Float](http://softwaremaniacs.org/blog/2005/12/01/css-layout-float/)
-11. [Очистка float-ов (clearfix)](http://webformyself.com/ochistka-plavayushhix-elementov-obzor-razlichnyx-metodov-clearfix/)
-12. [Варианты «clearfix-хака» и его замен: сводная таблица](http://css-live.ru/articles-css/clearfix-block-formatting-context-methods-cheatsheet.html)
-13. [The very latest clearfix reloaded](http://cssmojo.com/the-very-latest-clearfix-reloaded/)
-14. [Центрирование горизонтальное и вертикальное (learn.javascript)](https://learn.javascript.ru/css-center)
-15. [Способы вертикального выравнивания (habrahabr)](https://habrahabr.ru/post/277433/)
-16. [Вставка спецсимволов в before и after](http://xiper.net/collect/html-and-css-tricks/content/insert-symbols)
-17. [Тонкости использования селекторов аттрибутов](https://habrahabr.ru/post/85920/)
-18. [Как с помощью CSS прижать footer к низу окна браузера](http://dimox.name/press_footer_bottom_with_css/)
-19. [Антигерой CSS-разметки – свойство «display: table»](https://htmlacademy.ru/blog/29)
-20. [Как работает calc](https://bitsofco.de/how-calc-works/?ct=t(hamail_20170215))
-21. [О select в разных браузерах (habrahabr)](https://habrahabr.ru/company/htmlacademy/blog/257743/)
-22. [Все свойста для background](https://bitsofco.de/the-background-properties/?ct=t(hamail_20160815))
-23. [Ключевое слово currentColor](http://getinstance.info/articles/css/extending-the-color-cascade-with-the-css-currentcolor-variable/)
-24. [Краткая запись CSS как антипаттерн](http://prgssr.ru/development/kratkaya-zapis-css-kak-antipattern.html?ct=t(hamail_20170115))
-25. [Точки между словами на CSS](https://medium.com/@inomdzhon/dot-leaders-%D0%B8%D0%BB%D0%B8-%D1%82%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8-%D0%BD%D0%B0-css-5c56d0eaabd0#.m580zpvzz)
-26. [CSS для Javascript разработчика](https://learn.javascript.ru/css-for-js)
-27. [What is the class sr-only used for?](http://stackoverflow.com/questions/19758598/what-is-sr-only-in-bootstrap-3)
-28. [Несколько неочевидных фишек CSS, о которых вы могли не знать](https://medium.com/@lucyhackwrench/%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-%D0%BD%D0%B5%D0%BE%D1%87%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D1%85-%D1%84%D0%B8%D1%88%D0%B5%D0%BA-css-%D0%BE-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85-%D0%B2%D1%8B-%D0%BC%D0%BE%D0%B3%D0%BB%D0%B8-%D0%BD%D0%B5-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-780e7e4876a3#.qyeo9ytga)
-29. [50 фрагментов CSS полезных каждому дизайнеру](http://webformyself.com/50-fragmentov-css-poleznyx-kazhdomu-dizajneru/)
-30. [Несколько дельных советов по CSS (habrahabr)](https://habrahabr.ru/post/273403/)
-31. [22 Essential CSS Recipes](http://ipestov.com/22-essential-css-recipes/)
-32. [8 правил для улучшения вашего CSS](http://forwebdev.ru/css/8-rules-to-improve-css/)
-33. [Коллекция практических советов и заметок по вёрстке (habrahabr)](https://habrahabr.ru/post/273471/?mobile=no)
-34. [Sorax. Конкурс верстки. Анализ работ победителей (видео)](https://www.youtube.com/watch?v=snu8Rg6iNW4)
-35. [Тестирование верстки (makeup)](https://habrahabr.ru/post/277457/)
-36. [Баги в браузерах. Кто виноват и что делать?](https://www.youtube.com/watch?v=K-t9FIs2WTo&feature=em-uploademail)
+3. [Боремся со схлопыванием margin (habrahabr)](https://habrahabr.ru/post/257327/)
+4. [«Загадочные отступы» между inline-элементами (css-live)](http://css-live.ru/articles/zagadochnye-otstupy-mezhdu-inlajn-blokami.html)
+5. [Fighting the Space Between Inline Block Elements (css-tricks)](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
+6. [Как убрать лишние отступы у img внутри блока](http://vaden-pro.ru/blog/css/lishnie-otstupy-img)
+7. [Textarea. Как избавиться от отступа снизу](http://www.sql.ru/forum/1051967/textarea-i-otstup-snizu)
+8. [Вставка спецсимволов в before и after](http://xiper.net/collect/html-and-css-tricks/content/insert-symbols)
+9. [Несколько неочевидных фишек CSS, о которых вы могли не знать](https://medium.com/@lucyhackwrench/%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-%D0%BD%D0%B5%D0%BE%D1%87%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D1%85-%D1%84%D0%B8%D1%88%D0%B5%D0%BA-css-%D0%BE-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85-%D0%B2%D1%8B-%D0%BC%D0%BE%D0%B3%D0%BB%D0%B8-%D0%BD%D0%B5-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-780e7e4876a3#.qyeo9ytga)
+10. [Центрирование горизонтальное и вертикальное (learn.javascript)](https://learn.javascript.ru/css-center)
+11. [Способы вертикального выравнивания (habrahabr)](https://habrahabr.ru/post/277433/)
+12. [Тонкости использования селекторов аттрибутов](https://habrahabr.ru/post/85920/)
+13. [Как с помощью CSS прижать footer к низу окна браузера](http://dimox.name/press_footer_bottom_with_css/)
+14. [Антигерой CSS-разметки – свойство «display: table»](https://htmlacademy.ru/blog/29)
+15. [Как работает calc](https://bitsofco.de/how-calc-works/?ct=t(hamail_20170215))
+16. [О select в разных браузерах (habrahabr)](https://habrahabr.ru/company/htmlacademy/blog/257743/)
+17. [Все свойста для background](https://bitsofco.de/the-background-properties/?ct=t(hamail_20160815))
+18. [Краткая запись CSS как антипаттерн](http://prgssr.ru/development/kratkaya-zapis-css-kak-antipattern.html?ct=t(hamail_20170115))
+19. [What is the class sr-only used for?](http://stackoverflow.com/questions/19758598/what-is-sr-only-in-bootstrap-3)
+20. [Единицы viewport против процентов](http://front-end.su/2015/10/07/viewport-units-vs-percent/)
+21. [The Power of em Units in CSS](https://www.sitepoint.com/power-em-units-css/)
+22. [Несколько дельных советов по CSS (habrahabr)](https://habrahabr.ru/post/273403/)
+23. [8 правил для улучшения вашего CSS](http://forwebdev.ru/css/8-rules-to-improve-css/)
+24. [Коллекция практических советов и заметок по вёрстке (habrahabr)](https://habrahabr.ru/post/273471/?mobile=no)
+25. [CSS для Javascript разработчика](https://learn.javascript.ru/css-for-js)
+26. [50 фрагментов CSS полезных каждому дизайнеру](http://webformyself.com/50-fragmentov-css-poleznyx-kazhdomu-dizajneru/)
+27. [Точки между словами на CSS](https://medium.com/@inomdzhon/dot-leaders-%D0%B8%D0%BB%D0%B8-%D1%82%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8-%D0%BD%D0%B0-css-5c56d0eaabd0#.m580zpvzz)
+28. [Sorax. Конкурс верстки. Анализ работ победителей (видео)](https://www.youtube.com/watch?v=snu8Rg6iNW4)
+29. [Тестирование верстки (makeup)](https://habrahabr.ru/post/277457/)
+30. [Баги в браузерах. Кто виноват и что делать?](https://www.youtube.com/watch?v=K-t9FIs2WTo&feature=em-uploademail)
+31. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
+32. [Использование viewport-единиц в типографике](http://webbeaver.ru/future/viewport-unit/?ct=t(hamail_20160415)) 
 
 ======
 
