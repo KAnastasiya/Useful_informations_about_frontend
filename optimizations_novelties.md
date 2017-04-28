@@ -1,34 +1,43 @@
 ### CSS Grid Layout
-- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [CSS Reference.Grid](https://tympanus.net/codrops/css_reference/grid/)
-- [Grid by Example](http://gridbyexample.com/)
-- [Золотая рыбка CSS3 Grid Layout](http://css-live.ru/css/zolotaya-rybka-css3-grid-layout.html) 
-- [Подробно о размещении элементов в грид-раскладке](http://css-live.ru/articles/podrobno-o-razmeshhenii-elementov-v-grid-raskladke-css-grid-layout.html)
-- [Знакомство с CSS Grid Layout](http://css-live.ru/articles/znakomstvo-s-css-grid-layout.html)
-- [Getting Started with CSS Grid](https://css-tricks.com/getting-started-css-grid/)
-- [CSS Grid на практике: добавляем гриды к существующему дизайну](http://css-live.ru/articles/css-grid-na-praktike-dobavlyaem-gridy-k-sushhestvuyushhemu-dizajnu.html)
-- [Красивое выравнивание блоков по резиновой сетке. По-новому](http://css-live.ru/css/responsive-grid-css-grid-layout-auto-fill.html) 
-- [Свойства для выравнивания всего и их новые тайны](http://css-live.ru/articles-css/svojstva-dlya-vyravnivaniya-vsego-i-ix-novye-tajny.html)
-- [Как грид-раскладка (Grid Layout) провела лето](http://css-live.ru/articles/kak-grid-raskladka-grid-layout-provela-leto.html)
-- [Grid garden (game)](http://cssgridgarden.com)
-- [Griddy](http://www.griddy.io/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=griddy--interaktivnaya-pesochnitsa-dlya-izuch)
-- [Firefox. CSS Grid Inspector](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
+1. [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+2. [CSS Reference.Grid](https://tympanus.net/codrops/css_reference/grid/)
+3. [Grid by Example](http://gridbyexample.com/)
+4. [Золотая рыбка CSS3 Grid Layout](http://css-live.ru/css/zolotaya-rybka-css3-grid-layout.html) 
+5. [Подробно о размещении элементов в грид-раскладке](http://css-live.ru/articles/podrobno-o-razmeshhenii-elementov-v-grid-raskladke-css-grid-layout.html)
+6. [Знакомство с CSS Grid Layout](http://css-live.ru/articles/znakomstvo-s-css-grid-layout.html)
+7. [Getting Started with CSS Grid](https://css-tricks.com/getting-started-css-grid/)
+8. [CSS Grid на практике: добавляем гриды к существующему дизайну](http://css-live.ru/articles/css-grid-na-praktike-dobavlyaem-gridy-k-sushhestvuyushhemu-dizajnu.html)
+9. [Replace Bootstrap Layouts with CSS Grid](https://hacks.mozilla.org/2017/04/replace-bootstrap-layouts-with-css-grid/)
+10. [Красивое выравнивание блоков по резиновой сетке. По-новому](http://css-live.ru/css/responsive-grid-css-grid-layout-auto-fill.html) 
+11. [Свойства для выравнивания всего и их новые тайны](http://css-live.ru/articles-css/svojstva-dlya-vyravnivaniya-vsego-i-ix-novye-tajny.html)
+12. [Как грид-раскладка (Grid Layout) провела лето](http://css-live.ru/articles/kak-grid-raskladka-grid-layout-provela-leto.html)
+13. [Grid garden (game)](http://cssgridgarden.com)
+14. [Griddy](http://www.griddy.io/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=griddy--interaktivnaya-pesochnitsa-dlya-izuch)
+15. [CSS Grid Cheat Sheet (alialaa)](https://alialaa.github.io/css-grid-cheat-sheet/)
+16. [Firefox. CSS Grid Inspector](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
 
 ======
 
 ### Web components
-1. [Custom Elements, Shadow Dom, CSS Scoping, HTML imports и т.д. (learn.javascript)](https://learn.javascript.ru/webcomponents)
-2. [Shadow Dom. Введение (frontender, часть 1)](http://frontender.info/shadowdom/)
-3. [Shadow Dom. CSS и стили (frontender, часть 2)](http://frontender.info/shadowdom-201/)
-4. [Shadow Dom. Продвинутые концепции и DOM API (frontender, часть 3)](http://frontender.info/shadowdom-301/)  
+1. [Web_Components. MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+2. [Веб компоненты: светлое настоящее, Вадим Черненко](https://youtu.be/KjPsp_PVPuU)
+3. [Shadow DOM v1 (Eric Bidelman)](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom)
+4. [Custom Elements v1 (Eric Bidelman)](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
+4. [DevBytes: Web Components](https://www.youtube.com/watch?v=T5y_lmLngAk&list=PLOU2XLYxmsIJkA_W95NDrjdkk3dR6Jq4w&index=1)
+5. [Custom Elements, Shadow Dom, CSS Scoping, HTML imports и т.д. (learn.javascript)](https://learn.javascript.ru/webcomponents)
+6. [Shadow Dom. Введение (frontender, часть 1)](http://frontender.info/shadowdom/)
+7. [Shadow Dom. CSS и стили (frontender, часть 2)](http://frontender.info/shadowdom-201/)
+8. [Shadow Dom. Продвинутые концепции и DOM API (frontender, часть 3)](http://frontender.info/shadowdom-301/)  
 
 ======
 
-### Пользовательские CSS-свойства (CSS-переменные)
+### CSS Custom Properties
 1. [Переменные в CSS: зачем они нам? (frontender)](http://frontender.info/css-variables-why-should-you-care/)
 2. [Пользовательские свойства CSS. Основы (zmeika)](http://zmeika.name/2017/03/02/custom-css-properties-basics.html)
 3. [Пишем понятный код с пользовательскими свойствами CSS (zmeika)](http://zmeika.name/2017/03/09/readable-css.html)
-4. [CSS Custom Properties in Microsoft Edge](https://blogs.windows.com/msedgedev/2017/03/24/css-custom-properties/#FejEgroStbJlMRtg.97) 
+4. [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
+5. [Now that CSS Custom Properties are a Thing, All Value Parts Can Be Changed Individually](https://css-tricks.com/now-css-custom-properties-thing-value-parts-can-changed-individually/)
+6. [CSS Custom Properties in Microsoft Edge](https://blogs.windows.com/msedgedev/2017/03/24/css-custom-properties/#FejEgroStbJlMRtg.97)
 
 ======
 
@@ -40,12 +49,13 @@
 5. [Адаптивное содержимое сайта (видео от Useful Web)](https://www.youtube.com/watch?v=gjlyDPJh0Es)
 
 ======
+
 ### Новинки HTML
-1. [Что такое <datalist> в HTML5 и где его использовать](https://frontender.info/what-are-html5-datalists-and-when-to-use-them/)
+1. [Что такое datalist в HTML5 и где его использовать](https://frontender.info/what-are-html5-datalists-and-when-to-use-them/)
 
 ======
 
-### Новинки CSS 
+### Новинки CSS
 1. [Improve the Look of Links - text–decoration–skip и text–decoration–color](http://thenewcode.com/1168/Improve-the-Look-of-Links-with-the-CSS-Text-Decoration-Module?ct=t(hamail_20170115))
 2. [Раздельные функции CSS-трансформации (отдельные свойства, использование css-переменных)](http://css-live.ru/tricks/tryuk-razdelnye-funkcii-css-transformacii.html)
 3. [Background-blend-mode](http://css.yoksel.ru/background-blend-mode/) (управление режимами наложения слоев фона, заданного в CSS)
@@ -71,6 +81,7 @@
 
 ### Другие новинки
 1. [Наш взгляд на progressive web apps (Я.субботник, Антон Кричевский)](https://www.youtube.com/watch?v=9wr-dx5Ga04)
+2. [Нативные ECMAScript модули — первый обзор (habrahabr)](https://habrahabr.ru/company/tuturu/blog/326716/)
 
 ======
 
