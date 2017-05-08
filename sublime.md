@@ -53,7 +53,7 @@
 | [jQuery](https://packagecontrol.io/packages/jQuery) | Подсветка синтаксиса jQuery |
 | [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter) и [SublimeLinter-eslint](https://github.com/roadhump/SublimeLinter-eslint) | Проверка файла на соответствие требованиям файла .eslintrc |
 | [Babel](https://packagecontrol.io/packages/Babel) | Подстветка синтаксиса ES2015 |
-| [JavaScrip & NodeJS Snippets](https://packagecontrol.io/packages/JavaScript%20%26%20NodeJS%20Snippets) | Сниппеты для JavaScript |
+| [JavaScript & NodeJS Snippets](https://packagecontrol.io/packages/JavaScript%20%26%20NodeJS%20Snippets) | Сниппеты для JavaScript |
 | [DocBlockr](https://packagecontrol.io/packages/DocBlockr) | Добвление комментариев в формате jsDoc |
 
 
