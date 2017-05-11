@@ -162,8 +162,9 @@
 2. [Как и зачем линтить CSS (Андрей Ситник)](https://www.youtube.com/watch?v=geoy-41wRQw)
 3. [Инспекция и причёсывание CSS](http://juwain.ru/)
 4. [Stylelint в Sublime Text](https://packagecontrol.io/packages/SublimeLinter-contrib-stylelint)
-5. [Плагин stylelint-scss (линтинг scss-синтаксиса)](https://github.com/kristerkari/stylelint-scss)
-6. [stylelint-config-standard (набор правил для линтинга)](https://github.com/stylelint/stylelint-config-standard)
+5. [Плагин stylelint-scss](https://github.com/kristerkari/stylelint-scss) (линтинг scss-синтаксиса)
+6. [Плагин stylelint-order](https://www.npmjs.com/package/stylelint-order) (сортировка свойств)
+7. [Плагин stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard) (набор правил от AirBnB)
 7. [Stylelint Config Generator](https://maximgatilin.github.io/stylelint-config/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=stylelint-config-generator--dialogovyy-i)
 
 ======
