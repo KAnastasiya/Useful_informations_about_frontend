@@ -91,24 +91,33 @@
 6. [Презентация по Webpack (babakhanov)](https://babakhanov.github.io/lets-webpack/#/)
 7. [CommonJS в Webpack](https://webpack.github.io/docs/commonjs.html)
 8. [Babel в Webpack (модуль babel-loader)](https://github.com/babel/babel-loader)
+9. [Пример моего конфига для Webpack 2](https://github.com/KAnastasiya/Webpack_2)
+
+#### Webpack 2
+- [Официальная документация](https://webpack.js.org/concepts/)
+- [Видео от loftblog](https://www.youtube.com/playlist?list=PLbZerpEHZ8s0GgEcddz186-xRs8X0t0rA)
+- [Набор видео от Ihatetomatoes (англ)](https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY)
 
 ##### Полезные загрузчики:
 
 |             Загрузчик             |         Назначение и возможности        |
 | --------------------------------- | --------------------------------------- |
-| [pug-loader](https://github.com/pugjs/pug-loader) и [pug-load](https://github.com/pugjs/pug-load) | Обработка pug-файлов. Также в проекте должен быть установлен [пакет для работы с самим pug](https://www.npmjs.com/package/pug) |
-| [style-loader](https://github.com/webpack/style-loader) | Корректная работа Webpack с CSS |
-| [css-loader](https://github.com/webpack/css-loader) | Загрузка и разбор CSS-файлов |
-| [less-loader](https://github.com/webpack/less-loader) |  Загрузка и разбор LESS-файлов. *Предварительно в проект нужно установить LESS (выполнить команду `npm install less`)* |
-| [sass-loader](https://github.com/jtangelder/sass-loader) и [node-sass](https://github.com/sass/node-sass) | Обработка scss-файлов |
-| [stylus-loader](https://github.com/shama/stylus-loader) | Загрузка стилей, написанных с помощью препроцессора stylus |
-| [autoprefixer-loader](https://www.npmjs.com/package/autoprefixer-loader) | Авторастановка префиксов к CSS свойствам |
+| [pug-loader](https://github.com/pugjs/pug-loader) и [pug-load](https://github.com/pugjs/pug-load) | Загрузка pug-файлов. Также в проекте должен быть установлен [пакет для работы с самим pug](https://www.npmjs.com/package/pug) |
+| [style-loader](https://github.com/webpack/style-loader) | Резервная обработка css-файлов |
+| [css-loader](https://github.com/webpack/css-loader) | Загрузка css-файлов |
+| [sass-loader](https://github.com/jtangelder/sass-loader) и [node-sass](https://github.com/sass/node-sass) | Загрузка scss-файлов |
+| [less-loader](https://github.com/webpack/less-loader) |  Загрузка lESS-файлов. *Предварительно в проект нужно установить LESS (выполнить команду `npm install less`)* |
+| [stylus-loader](https://github.com/shama/stylus-loader) | Загрузка styl-файлов |
+| [autoprefixer-loader](https://www.npmjs.com/package/autoprefixer-loader) | Авторастановка вендорных-префиксов в css |
 | [postcss-loader](https://github.com/postcss/postcss-loader) | PostCss-загрузчик |
 | [url-loader](https://www.npmjs.com/package/url-loader) | Помещает графику до некоторого размера в виде data:uri, а свыше этого размера выносит в отдельный файл |
-| [file-loader](https://www.npmjs.com/package/file-loader) | Загружает файлы в webpack |
-| [json-loader](https://www.npmjs.com/package/json-loader)| Загружает json-файлы в webpack |
-| [babel-loader](https://www.npmjs.com/package/babel-loader) | Преобразовует es6 в 'обычный' javascript |
-| [eslint-loader](https://github.com/MoOx/eslint-loader)| Проверка js-файлов на соответствие стандарту |
+| [file-loader](https://www.npmjs.com/package/file-loader) | Загрузка файлов |
+| [json-loader](https://www.npmjs.com/package/json-loader)| Загрузка json-файлов |
+| [babel-loader](https://www.npmjs.com/package/babel-loader) | Преобразование es6 в 'обычный' javascript |
+| [eslint-loader](https://github.com/MoOx/eslint-loader)| Проверка js-файлов на соответствие стандартам |
+| [resolve-url-loader](https://github.com/bholloway/resolve-url-loader) | Разрешает относительные пути в операторах url() на основе исходного файла. |
+| [svg-sprite-loader](https://www.npmjs.com/package/svg-sprite-loader) | Создание и использование svg-спрайтов |
+| [image-webpack-loader](https://github.com/tcoopman/image-webpack-loader) | Загрузка изображений |
 
 ##### Полезные загрузчики PostCss:
 
@@ -129,13 +138,20 @@
 ##### Полезные плагины:
 |              Плагин               |         Назначение и возможности        |
 | --------------------------------- | --------------------------------------- |
-| NoErrorsPlugin |  Не дает перезаписать скрипты при наличии в них ошибок |
-| OccurrenceOrderPlugin | Минимизирует id, которые используются webpack для подгрузки чанков и прочего |
+| *NoErrorsPlugin|  Не дает перезаписать скрипты при наличии в них ошибок |
+| *OccurrenceOrderPlugin | Минимизирует id, которые используются webpack для подгрузки чанков и прочего |
 | DefinePlugin | Определение констант и выражений внутрь кода |
-| ProvidePlugin | Анализ исходников и автоматическое создание import директив  |
-| [ExtractTextPlugin](https://www.npmjs.com/package/extract-text-webpack-plugin) | Конкатанация нескольких css-файлов |
-| [jsdoc-webpack-plugin](https://www.npmjs.com/package/jsdoc-webpack-plugin) | Генерация документации о скриптах проекта на основании комментариев к коду |
+| ProvidePlugin | Анализ исходников и автоматическое создание import директив |
 | [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) | Генерация html по шаблону |
+| [extract-text-webpack-plugin](https://www.npmjs.com/package/extract-text-webpack-plugin) | Конкатанация нескольких css-файлов |
+| [webpack-merge](https://www.npmjs.com/package/webpack-merge) | Позволяет объединять массивы и объекты, в новый объект |
+| [stylelint-webpack-plugin](https://www.npmjs.com/package/stylelint-webpack-plugin) | Линтинг (проверка на соответствие стандартам) стилей |
+| [jsdoc-webpack-plugin](https://www.npmjs.com/package/jsdoc-webpack-plugin) | Генерация документации о скриптах проекта на основании комментариев к коду |
+
+* 
+- Для Webpack 2 вместо NoErrorsPlugin используется NoEmitOnErrorsPlugin
+- Для Webpack 2 OccurrenceOrderPlugin предустановлен, то есть в webpack.config.js его можно не включать 
+*
 
 ##### Другое:
 |              Плагин               |         Назначение и возможности        |
