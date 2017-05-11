@@ -28,6 +28,7 @@
 6. [Shadow Dom. Введение (frontender, часть 1)](http://frontender.info/shadowdom/)
 7. [Shadow Dom. CSS и стили (frontender, часть 2)](http://frontender.info/shadowdom-201/)
 8. [Shadow Dom. Продвинутые концепции и DOM API (frontender, часть 3)](http://frontender.info/shadowdom-301/)  
+9. [Мои Web-компоненты](https://github.com/KAnastasiya/Web_components)
 
 ======
 
