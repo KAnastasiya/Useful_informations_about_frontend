@@ -171,6 +171,7 @@
 ##### NPM
 1. [Официальный сайт](https://www.npmjs.com/) 
 2. [For Beginners](https://www.impressivewebs.com/npm-for-beginners-a-guide-for-)
+3. [Установка и использование переменных среды для разных платформ](https://www.npmjs.com/package/cross-env)
 
 ##### Yarn
 3. [Официальный сайт](https://yarnpkg.com/en/)
