@@ -40,6 +40,7 @@
 3. [Руководство для самых маленьких](https://www.youtube.com/watch?v=vW51JUVT66w)
 4. [Видео от loftblog](http://loftblog.ru/material/gulp-js-rabotaem-s-css-concat-minify-rename-notify-watch-dest/)
 5. [Автоматизация работы с Gulp](https://webref.ru/dev/automate-with-gulp)
+6. [node-normalize-scss](https://www.npmjs.com/package/node-normalize-scss) (плагин для подключенияя normalize.scss)
 
 ##### Полезные плагины:
 
