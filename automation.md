@@ -149,10 +149,8 @@
 | [stylelint-webpack-plugin](https://www.npmjs.com/package/stylelint-webpack-plugin) | Линтинг (проверка на соответствие стандартам) стилей |
 | [jsdoc-webpack-plugin](https://www.npmjs.com/package/jsdoc-webpack-plugin) | Генерация документации о скриптах проекта на основании комментариев к коду |
 
-* 
-- Для Webpack 2 вместо NoErrorsPlugin используется NoEmitOnErrorsPlugin
-- Для Webpack 2 OccurrenceOrderPlugin предустановлен, то есть в webpack.config.js его можно не включать 
-*
+* - Для Webpack 2 вместо NoErrorsPlugin используется NoEmitOnErrorsPlugin *
+* - Для Webpack 2 OccurrenceOrderPlugin предустановлен, то есть в webpack.config.js его можно не включать *
 
 ##### Другое:
 |              Плагин               |         Назначение и возможности        |
