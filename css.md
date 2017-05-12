@@ -91,6 +91,7 @@
 5. [writing-mode](https://24ways.org/2016/css-writing-modes/?ct=t(hamail_20170115)) (устанавливает направление текста)
 6. [CSS3 columns](http://www.webdesignerdepot.com/2013/03/how-to-use-css3-columns/) (свойства для создания многоколончатого текстового контента (газетного образца))
 7. [@-правила CSS](http://frontender.info/the-at-rules-of-css/) (@media, @keyframes, @supports...)
+8. [60 FPS? Легко! pointer-events:none!](https://habrahabr.ru/post/204238/)
 
 ======
 
