@@ -66,6 +66,7 @@
     (flex-basis_1 - Итог.размер_1) * flex-basis_2 * flex-shrink_2 = (flex-basis_2 - Итог.размер_2) * flex-basis_1 * flex-shrink_1, 
     *где *_1 - свойства одного flex-элемента, а *_2 - другого flex-элемента.*
 
+16. [Flexbugs](https://github.com/philipwalton/flexbugs)
 ======
 
 ### Media Queries
@@ -183,25 +184,26 @@
 11. [Способы вертикального выравнивания (habrahabr)](https://habrahabr.ru/post/277433/)
 12. [Тонкости использования селекторов аттрибутов](https://habrahabr.ru/post/85920/)
 13. [Как с помощью CSS прижать footer к низу окна браузера](http://dimox.name/press_footer_bottom_with_css/)
-14. [Антигерой CSS-разметки – свойство «display: table»](https://htmlacademy.ru/blog/29)
-15. [Как работает calc](https://bitsofco.de/how-calc-works/?ct=t(hamail_20170215))
-16. [О select в разных браузерах (habrahabr)](https://habrahabr.ru/company/htmlacademy/blog/257743/)
-17. [Все свойста для background](https://bitsofco.de/the-background-properties/?ct=t(hamail_20160815))
-18. [Краткая запись CSS как антипаттерн](http://prgssr.ru/development/kratkaya-zapis-css-kak-antipattern.html?ct=t(hamail_20170115))
-19. [What is the class sr-only used for?](http://stackoverflow.com/questions/19758598/what-is-sr-only-in-bootstrap-3)
-20. [Единицы viewport против процентов](http://front-end.su/2015/10/07/viewport-units-vs-percent/)
-21. [The Power of em Units in CSS](https://www.sitepoint.com/power-em-units-css/)
-22. [Несколько дельных советов по CSS (habrahabr)](https://habrahabr.ru/post/273403/)
-23. [8 правил для улучшения вашего CSS](http://forwebdev.ru/css/8-rules-to-improve-css/)
-24. [Коллекция практических советов и заметок по вёрстке (habrahabr)](https://habrahabr.ru/post/273471/?mobile=no)
-25. [CSS для Javascript разработчика](https://learn.javascript.ru/css-for-js)
-26. [50 фрагментов CSS полезных каждому дизайнеру](http://webformyself.com/50-fragmentov-css-poleznyx-kazhdomu-dizajneru/)
-27. [Точки между словами на CSS](https://medium.com/@inomdzhon/dot-leaders-%D0%B8%D0%BB%D0%B8-%D1%82%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8-%D0%BD%D0%B0-css-5c56d0eaabd0#.m580zpvzz)
-28. [Sorax. Конкурс верстки. Анализ работ победителей (видео)](https://www.youtube.com/watch?v=snu8Rg6iNW4)
-29. [Тестирование верстки (makeup)](https://habrahabr.ru/post/277457/)
-30. [Баги в браузерах. Кто виноват и что делать?](https://www.youtube.com/watch?v=K-t9FIs2WTo&feature=em-uploademail)
-31. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
-32. [Использование viewport-единиц в типографике](http://webbeaver.ru/future/viewport-unit/?ct=t(hamail_20160415)) 
+14. [Способы обрезания многострочного текста по высоте](http://getinstance.info/articles/css/truncate-multiline-text/)
+15. [Антигерой CSS-разметки – свойство «display: table»](https://htmlacademy.ru/blog/29)
+16. [Как работает calc](https://bitsofco.de/how-calc-works/?ct=t(hamail_20170215))
+17. [О select в разных браузерах (habrahabr)](https://habrahabr.ru/company/htmlacademy/blog/257743/)
+18. [Все свойста для background](https://bitsofco.de/the-background-properties/?ct=t(hamail_20160815))
+19. [Краткая запись CSS как антипаттерн](http://prgssr.ru/development/kratkaya-zapis-css-kak-antipattern.html?ct=t(hamail_20170115))
+20. [What is the class sr-only used for?](http://stackoverflow.com/questions/19758598/what-is-sr-only-in-bootstrap-3)
+21. [Единицы viewport против процентов](http://front-end.su/2015/10/07/viewport-units-vs-percent/)
+22. [The Power of em Units in CSS](https://www.sitepoint.com/power-em-units-css/)
+23. [Несколько дельных советов по CSS (habrahabr)](https://habrahabr.ru/post/273403/)
+24. [8 правил для улучшения вашего CSS](http://forwebdev.ru/css/8-rules-to-improve-css/)
+25. [Коллекция практических советов и заметок по вёрстке (habrahabr)](https://habrahabr.ru/post/273471/?mobile=no)
+26. [CSS для Javascript разработчика](https://learn.javascript.ru/css-for-js)
+27. [50 фрагментов CSS полезных каждому дизайнеру](http://webformyself.com/50-fragmentov-css-poleznyx-kazhdomu-dizajneru/)
+28. [Точки между словами на CSS](https://medium.com/@inomdzhon/dot-leaders-%D0%B8%D0%BB%D0%B8-%D1%82%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8-%D0%BD%D0%B0-css-5c56d0eaabd0#.m580zpvzz)
+29. [Sorax. Конкурс верстки. Анализ работ победителей (видео)](https://www.youtube.com/watch?v=snu8Rg6iNW4)
+30. [Тестирование верстки (makeup)](https://habrahabr.ru/post/277457/)
+31. [Баги в браузерах. Кто виноват и что делать?](https://www.youtube.com/watch?v=K-t9FIs2WTo&feature=em-uploademail)
+32. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
+33. [Использование viewport-единиц в типографике](http://webbeaver.ru/future/viewport-unit/?ct=t(hamail_20160415)) 
 
 ======
 
