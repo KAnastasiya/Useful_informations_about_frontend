@@ -13,9 +13,11 @@
 12. [HTML & CSS is hard. A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
 13. [Изучаем css-селекторы в игровой форме](https://flukeout.github.io/)
 14. [Псевдоселекторы в CSS3](https://www.youtube.com/watch?v=kdH-MscuiU8)
-15. Позиционирование (geekbrains): [часть 1](https://geekbrains.ru/events/203) и [часть 2](https://geekbrains.ru/events/214)
-16. [Модульные сетки в HTML/CSS](https://www.youtube.com/watch?v=f2ypR_-4ka0)
-17. [Изучение CSS Разметки](http://learnlayout.com/)
+15. [8 CSS selectors DO’s and DON’Ts](https://medium.com/@aljullu/8-css-selectors-dos-and-don-ts-1e0d23fcf96c)
+16. [CSS Selectors from CSS4 till CSS1](http://css4-selectors.com/selectors/)
+17. Позиционирование (geekbrains): [часть 1](https://geekbrains.ru/events/203) и [часть 2](https://geekbrains.ru/events/214)
+18. [Модульные сетки в HTML/CSS](https://www.youtube.com/watch?v=f2ypR_-4ka0)
+19. [Изучение CSS Разметки](http://learnlayout.com/)
 
 ======
 
