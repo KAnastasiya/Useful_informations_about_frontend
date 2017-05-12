@@ -39,7 +39,7 @@
 4. [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
 5. [Now that CSS Custom Properties are a Thing, All Value Parts Can Be Changed Individually](https://css-tricks.com/now-css-custom-properties-thing-value-parts-can-changed-individually/)
 6. [CSS Custom Properties in Microsoft Edge](https://blogs.windows.com/msedgedev/2017/03/24/css-custom-properties/#FejEgroStbJlMRtg.97)
-
+7. [Winning with CSS Variables](https://vgpena.github.io/winning-with-css-variables/)
 ======
 
 ### Адаптивные изображения с помощью атрибута srcset
@@ -65,9 +65,11 @@
 6. [CSS-функция element()](http://css-live.ru/articles/css-funkciya-element.html) (отображение части сайта как картинки в реальном времени)
 7. [Новый display:flow-root — не clearfix, но что это и зачем?](http://css-live.ru/faq/displayflow-root-not-clearfix.html)
 8. [CSS property shape-outside](https://css-tricks.com/almanac/properties/s/shape-outside/)
-9. [CSS property all](https://css-tricks.com/almanac/properties/a/all/)
-10. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
-11. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
+9. [Свойство placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
+10. [Customize the browser’s scrollbar with CSS](https://scotch.io/tutorials/customize-the-browsers-scrollbar-with-css)
+11. [CSS property all](https://css-tricks.com/almanac/properties/a/all/)
+12. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
+13. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
 
 ======
 
