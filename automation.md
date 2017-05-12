@@ -117,7 +117,7 @@
 | [babel-loader](https://www.npmjs.com/package/babel-loader) | Преобразование es6 в 'обычный' javascript |
 | [eslint-loader](https://github.com/MoOx/eslint-loader)| Проверка js-файлов на соответствие стандартам |
 | [resolve-url-loader](https://github.com/bholloway/resolve-url-loader) | Разрешает относительные пути в операторах url() на основе исходного файла. |
-| [svg-sprite-loader](https://www.npmjs.com/package/svg-sprite-loader) | Создание и использование svg-спрайтов |
+| [svg-sprite-loader](https://www.npmjs.com/package/svg-sprite-loader) | Создание и использование svg-спрайтов. Подробнее об этот лоадере см. на [habrahabr](https://habrahabr.ru/post/327700/) |
 | [image-webpack-loader](https://github.com/tcoopman/image-webpack-loader) | Загрузка изображений |
 
 ##### Полезные загрузчики PostCss:
