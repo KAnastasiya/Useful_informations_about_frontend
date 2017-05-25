@@ -28,6 +28,12 @@
 
 ======
 
+### Установка Ubuntu (17.04)
+1. [Get Ubuntu](https://www.ubuntu.com/download)
+2. [Запись iso-образа на флешку в Linux](http://compizomania.blogspot.com/2015/09/iso-linux.html) 
+
+======
+
 ### Локальный сервер на базе Node.js
 1. [Установить Node.js](https://nodejs.org/en/).
 
