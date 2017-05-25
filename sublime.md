@@ -8,9 +8,8 @@
 4. [Установка и настройка. Полная инструкция](http://rightblog.ru/2781)
 5. [Список параметров (Preferences - Settings)](http://www.sublimetext.ru/documentation/preferences/list)
 6. [Установка Package Control](https://packagecontrol.io/installation#st3)
-7. [Синхронизация настроек между разными ПК](https://packagecontrol.io/docs/syncing)
-8. [Пишем сниппеты для Sublime Text](https://www.youtube.com/watch?v=Z0rF3VdYo94)
-9. [GitHub Gist в Sublime Text](http://rubycode.ru/sublime-text/70-nastroyka-github-gist-hranenie-i-ispolzovanie-koda.html)
+7. [Пишем сниппеты для Sublime Text](https://www.youtube.com/watch?v=Z0rF3VdYo94)
+8. [GitHub Gist в Sublime Text](http://rubycode.ru/sublime-text/70-nastroyka-github-gist-hranenie-i-ispolzovanie-koda.html)
 
 ======
 
@@ -41,6 +40,7 @@
 | [Stylus](https://packagecontrol.io/packages/Stylus) | Подсветка синтаксиса |
 | [SASS](https://packagecontrol.io/packages/Sass) и [SASS Build](https://packagecontrol.io/packages/SASS%20Build) | Конвертация из sass/scss-формата в css средствами ST3 |
 | [CSScomb](https://packagecontrol.io/packages/CSScomb) | Упорядочивание SCSS и CSS (сортировка, чистка...) |
+| [SuperCalculator](https://packagecontrol.io/packages/Super%20Calculator) | Автоматический расчет математических выражений |
 
 **Внимание!** Для работы с SCSS или SCSS установить плагины недостаточно. Необходимо также установить Ruby и SASS. Подробнее см. в репозитории [Типовой проект](https://github.com/KAnastasiya/Model_project__scss_gulp).
 
@@ -55,6 +55,7 @@
 | [Babel](https://packagecontrol.io/packages/Babel) | Подстветка синтаксиса ES2015 |
 | [JavaScript & NodeJS Snippets](https://packagecontrol.io/packages/JavaScript%20%26%20NodeJS%20Snippets) | Сниппеты для JavaScript |
 | [DocBlockr](https://packagecontrol.io/packages/DocBlockr) | Добвление комментариев в формате jsDoc |
+| [Open-Include](https://github.com/titoBouzout/Open-Include) | Удобное открытие импортируемых файлов (непосрелственно с места импорта) |
 
 
 ### Другие плагины:
@@ -67,6 +68,8 @@
 | [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview) | Преобразование md-файлов в html-формат |
 | [Theme - Soda](https://github.com/buymeasoda/soda-theme) | Тема редактора |
 | [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) | Full-featured code intelligence and smart autocomplete engine |
+| [InstaGoogling](https://packagecontrol.io/packages/InstaGoogling) | Открытие гугл-поиска из полноэкранного режима ST3. Работает только в Google Chrome и только на Windows, при этом предварительно в браузер должен быть установлен соответствующий [плагин](https://chrome.google.com/webstore/detail/instagoogling/oplehhpakncpogfgojmjaljobfdhogdf)  |
+| [PackageSync](https://packagecontrol.io/packages/PackageSync) | Backup and restore ST3 settings |
 
 ======
 
