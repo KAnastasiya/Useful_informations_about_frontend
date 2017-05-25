@@ -72,6 +72,7 @@
 | [PackageSync](https://packagecontrol.io/packages/PackageSync) | Backup and restore ST3 settings |
 | [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) | Расширенные возможности по созданию и управлению файлами и папками |
 | [GitGutter](https://packagecontrol.io/packages/GitGutter) | Показ изменений относительно последненго коммита непосредственно в редакторе |
+| [Gist](https://packagecontrol.io/packages/Gist) | Подробнее о гисте и его установке в ST3 см. [тут](https://www.youtube.com/watch?v=fUUXus8gGk0) |
 
 ======
 
