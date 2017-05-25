@@ -102,6 +102,7 @@
 9. [Is your web page mobile-friendly?](https://search.google.com/search-console/mobile-friendly?utm_source=psi&utm_medium=link&utm_campaign=psi-ux-banner&hl=en-US&url=https%3A%2F%2Fkanastasiya.github.io%2FKlumba%2F%23%2F)
 10. [Тестирование сайта на доступность](http://wave.webaim.org/report#/google.com)
 11. [Проверьте скорость своего сайта](https://webo.in/)
+12. [What is the cost of my npm package?](https://cost-of-modules.herokuapp.com/)
 
 ======
 
