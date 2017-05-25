@@ -72,7 +72,11 @@ app.listen(3000, function () {
 | [uBlock](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/related?hl=ru) | эффективный блокировщик: использует меньше оперативной памяти и меньше нагружает ЦП, при этом используя больше фильтров |
 | [Tunnel Bear](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa/related) | обход заблокированных сайтов, защита своих данных в интернет и т.д.|
 | [Request Maker](https://chrome.google.com/webstore/detail/request-maker/kajfghlhfkcocafkcjlajldicbikpgnp) | взаимодействие с сервером, отправка запросов и получение ответов |
-| [Chrome extends CSS peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) | extract CSS and build beautiful styleguides |
+| [CSS peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) | extract CSS and build beautiful styleguides |
+| [Yslow](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) | analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages |
+| [Whatsfont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) | inspect web fonts by just hovering on them |
+| [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=ru) | show code tree for GitHub and GitLab |
+| [Instagoogling](https://chrome.google.com/webstore/detail/instagoogling/oplehhpakncpogfgojmjaljobfdhogdf) | is the fastest and most efficient way to Google from Sublime Text (works only for Windows). To make it work you need to install the Sublime-Text Plugin "Instagoogling" |
 
 ======
 
