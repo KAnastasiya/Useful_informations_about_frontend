@@ -70,6 +70,7 @@
 | [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) | Full-featured code intelligence and smart autocomplete engine |
 | [InstaGoogling](https://packagecontrol.io/packages/InstaGoogling) | Открытие гугл-поиска из полноэкранного режима ST3. Работает только в Google Chrome и только на Windows, при этом предварительно в браузер должен быть установлен соответствующий [плагин](https://chrome.google.com/webstore/detail/instagoogling/oplehhpakncpogfgojmjaljobfdhogdf)  |
 | [PackageSync](https://packagecontrol.io/packages/PackageSync) | Backup and restore ST3 settings |
+| [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) | Расширенные возможности по созданию и управлению файлами и папками |
 
 ======
 
