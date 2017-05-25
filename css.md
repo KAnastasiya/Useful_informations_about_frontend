@@ -140,9 +140,10 @@
 5. [SCSS — новая порция глазури от Sass (habrahabr)](https://habrahabr.ru/post/96417/)
 6. [SCSS — немного практики (habrahabr)](https://habrahabr.ru/post/140612/)
 7. Видео-уроки от loftblog: [SASS и SCSS](http://loftblog.ru/lessons/sass-scss/), [SASS и Compass. Введение](http://loftblog.ru/material/legkoe-pogruzhenie-v-sass-i-compass/), [SASS и Compass. Продолжение](http://loftblog.ru/material/vvedenie-v-sass-compass-prodolzhenie/)
-8. Media Queries в SASS: [Как использовать Media Queries](https://habrahabr.ru/post/156645/), [Media queries in Sass](http://thesassway.com/intermediate/responsive-web-design-part-2)
-9. [Sassmeister - онлайн-редактор, поддерживающий синтаксис SASS и SCSS](http://www.sassmeister.com/)
-10. [Онлайн-конвертер из SCSS в CSS](http://medialize.github.io/playground.sass.js/)
+8. [7 Sass techniques to help you write better code](https://www.devbridge.com/articles/7-sass-techniques-to-help-you-write-better-code/?utm_source=CSS-Weekly&utm_campaign=Issue-266&utm_medium=email) 
+9. Media Queries в SASS: [Как использовать Media Queries](https://habrahabr.ru/post/156645/), [Media queries in Sass](http://thesassway.com/intermediate/responsive-web-design-part-2)
+10. [Sassmeister - онлайн-редактор, поддерживающий синтаксис SASS и SCSS](http://www.sassmeister.com/)
+11. [Онлайн-конвертер из SCSS в CSS](http://medialize.github.io/playground.sass.js/)
 
 #### Stylus
 1. [Официальный сайт](http://stylus-lang.com/)
