@@ -93,6 +93,7 @@
 7. [CommonJS в Webpack](https://webpack.github.io/docs/commonjs.html)
 8. [Babel в Webpack (модуль babel-loader)](https://github.com/babel/babel-loader)
 9. [Пример моего конфига для Webpack 2](https://github.com/KAnastasiya/Webpack_2)
+10. [Webpack Academy](https://webpack.academy/)
 
 #### Webpack 2
 - [Официальная документация](https://webpack.js.org/concepts/)
