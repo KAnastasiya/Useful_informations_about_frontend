@@ -10,6 +10,7 @@
 6. [Установка Package Control](https://packagecontrol.io/installation#st3)
 7. [Пишем сниппеты для Sublime Text](https://www.youtube.com/watch?v=Z0rF3VdYo94)
 8. [GitHub Gist в Sublime Text](http://rubycode.ru/sublime-text/70-nastroyka-github-gist-hranenie-i-ispolzovanie-koda.html)
+9. [Горячие клавиши. Шпаргалка](http://nicothin.github.io/sublime-text/sublime-text-3-hotkeys.html)
 
 ======
 
@@ -41,6 +42,8 @@
 | [SASS](https://packagecontrol.io/packages/Sass) и [SASS Build](https://packagecontrol.io/packages/SASS%20Build) | Конвертация из sass/scss-формата в css средствами ST3 |
 | [CSScomb](https://packagecontrol.io/packages/CSScomb) | Упорядочивание SCSS и CSS (сортировка, чистка...) |
 | [SuperCalculator](https://packagecontrol.io/packages/Super%20Calculator) | Автоматический расчет математических выражений |
+| [List stylesheet variables](https://packagecontrol.io/packages/List%20stylesheet%20variables) | Отображение списка всех переменных, используемых в файле |
+| [eCSStractor](https://packagecontrol.io/packages/eCSStractor) | Выбор классов из HTML и генерации на их основании CSS-файла |
 
 **Внимание!** Для работы с SCSS или SCSS установить плагины недостаточно. Необходимо также установить Ruby и SASS. Подробнее см. в репозитории [Типовой проект](https://github.com/KAnastasiya/Model_project__scss_gulp).
 
