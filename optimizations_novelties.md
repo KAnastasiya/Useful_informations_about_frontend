@@ -16,7 +16,8 @@
 15. [Grid garden (game)](http://cssgridgarden.com)
 16. [Griddy](http://www.griddy.io/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=griddy--interaktivnaya-pesochnitsa-dlya-izuch)
 17. [CSS Grid Cheat Sheet (alialaa)](https://alialaa.github.io/css-grid-cheat-sheet/)
-18. [Firefox. CSS Grid Inspector](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
+18. [Как работает функция minmax()](http://css-live.ru/articles/kak-rabotaet-funkciya-minmax.html)
+19. [Firefox. CSS Grid Inspector](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
 
 ======
 
@@ -42,6 +43,9 @@
 5. [Now that CSS Custom Properties are a Thing, All Value Parts Can Be Changed Individually](https://css-tricks.com/now-css-custom-properties-thing-value-parts-can-changed-individually/)
 6. [CSS Custom Properties in Microsoft Edge](https://blogs.windows.com/msedgedev/2017/03/24/css-custom-properties/#FejEgroStbJlMRtg.97)
 7. [Winning with CSS Variables](https://vgpena.github.io/winning-with-css-variables/)
+8. [How To Define And Use CSS Custom Properties](http://vanseodesign.com/css/custom-properties/)
+9. [How To Use CSS Custom Properties To Write More Readable Code](http://vanseodesign.com/css/custom-properties-and-readability/)
+
 ======
 
 ### Адаптивные изображения с помощью атрибута srcset
@@ -68,10 +72,11 @@
 7. [Новый display:flow-root — не clearfix, но что это и зачем?](http://css-live.ru/faq/displayflow-root-not-clearfix.html)
 8. [CSS property shape-outside](https://css-tricks.com/almanac/properties/s/shape-outside/)
 9. [Свойство placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
-10. [Customize the browser’s scrollbar with CSS](https://scotch.io/tutorials/customize-the-browsers-scrollbar-with-css)
-11. [CSS property all](https://css-tricks.com/almanac/properties/a/all/)
-12. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
-13. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
+10. [Свойство image-rendering](https://css-tricks.com/almanac/properties/i/image-rendering/)
+11. [Customize the browser’s scrollbar with CSS](https://scotch.io/tutorials/customize-the-browsers-scrollbar-with-css)
+12. [CSS property all](https://css-tricks.com/almanac/properties/a/all/)
+13. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
+14. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
 
 ======
 
@@ -81,6 +86,7 @@
 3. [Dr. Axel Rauschmayer - ECMAScript 2017 and beyond](https://youtu.be/5Kw4XVSb4P4)
 4. [ES7 Features](https://h3manth.com/new/blog/2015/es7-features/)
 5. [Finished Proposals](https://github.com/tc39/proposals/blob/master/finished-proposals.md)
+6. [ES8 вышел и вот его основные новые возможности](https://habrahabr.ru/post/332900/)
 
 ======
 
