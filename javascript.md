@@ -66,13 +66,14 @@
 4. [Основы (CodeDojo)](https://www.youtube.com/watch?v=4YfsAz-sNAo&list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q)
 5. [Основы (monsterlessons)](http://monsterlessons.com/project/series/es6-dlya-nachinayushih)
 6. [Знакомство с EcmaScript 6 (loftblog)](https://loftblog.ru/material/1-znakomstvo-s-ecmascript-6-let-const/) 
-7. [Классы в ECMAScript 6](http://frontender.info/es6-classes-final/)
-8. [Understanding ES6 Classes](https://medium.com/papdit/understanding-es6-classes-ada7c14e0213#.cynm2gujz)
-9. [Промисы на примере бургер-вечеринки](https://habrahabr.ru/company/nixsolutions/blog/323066/?mobile=no)
-10. [ES6 compatibility table](https://kangax.github.io/compat-table/es6/)
-11. [Babel - кроссбраузерная поддержка ES-2015 (официальный сайт)](https://babeljs.io/)
-12. [Babel ESLint](https://github.com/babel/babel-eslint) 
-13. [es6console](https://es6console.com/)
+7. [Object rest and spread properties](https://developers.google.com/web/updates/2017/06/object-rest-spread)
+8. [Классы в ECMAScript 6](http://frontender.info/es6-classes-final/)
+9. [Understanding ES6 Classes](https://medium.com/papdit/understanding-es6-classes-ada7c14e0213#.cynm2gujz)
+10. [Промисы на примере бургер-вечеринки](https://habrahabr.ru/company/nixsolutions/blog/323066/?mobile=no)
+11. [ES6 compatibility table](https://kangax.github.io/compat-table/es6/)
+12. [Babel - кроссбраузерная поддержка ES-2015 (официальный сайт)](https://babeljs.io/)
+13. [Babel ESLint](https://github.com/babel/babel-eslint) 
+14. [es6console](https://es6console.com/)
 
 ======
 
@@ -122,6 +123,7 @@
 36. [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/) 
 37. [12 Extremely Useful Hacks for JavaScript](https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/) 
 38. [JavaScript’s Prototypal Inheritance Explained Using CSS(https://medium.freecodecamp.com/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4#.2r3bczq91)  
+39. [(Now More Than Ever) You Might Not Need jQuery](https://css-tricks.com/now-ever-might-not-need-jquery/)
 
 ======
 
