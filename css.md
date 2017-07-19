@@ -47,28 +47,31 @@
 ### Flexbox
 1. [Что такое Flexbox? (html5.by)](http://html5.by/blog/flexbox/)
 2. [Полное руководство (frontender)](http://frontender.info/a-guide-to-flexbox/)
-3. [Визуальное руководство (css-live)](http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html)
-4. [A Complete Guide to Flexbox (css-tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-5. [Видео-уроки от loftblog](http://loftblog.ru/material/flexbox-css3-1-flexbox-na-praktike/)
-6. [Flexbox (CodeDojo)](https://www.youtube.com/watch?v=7Lg-438gAc8&list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM&index=1)
-7. [Flex cheatsheet (yoksel)](http://yoksel.github.io/flex-cheatsheet/)
-8. [Интерактивная игра для изучения flexbox (flexboxfroggy)](http://flexboxfroggy.com/)
-9. [Веселое изучение flexbox (flexbox-game)](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
-10. [Flexbox game (flexboxdefense)](http://www.flexboxdefense.com/)
-11. [Как сделать sticky footer при резиновой верстке](http://shpargalkablog.ru/2014/02/footer-bottom.html)
-12. [Firefox overflow-y not working with nested flexbox](http://stackoverflow.com/questions/28636832/firefox-overflow-y-not-working-with-nested-flexbox)
-13. [Flexbox Tester (Understand how to calculate the width of flex items)](https://madebymike.com.au/demos/flexbox-tester/)
-14. **Формула расчета flex-grow** (*насколько будет растянут flex-элемент относительно оставшихся flex-элементов во flex-контейнере при распределении положительного свободного пространства*): 
+3. [Полное руководство по Flexbox (TuHub)](https://tuhub.ru/frontend/flexbox-complete-guide/ )
+4. [Визуальное руководство (css-live)](http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html)
+5. [A Complete Guide to Flexbox (css-tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+6. [Видео-уроки от loftblog](http://loftblog.ru/material/flexbox-css3-1-flexbox-na-praktike/)
+7. [Flexbox (CodeDojo)](https://www.youtube.com/watch?v=7Lg-438gAc8&list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM&index=1)
+8. [Flex cheatsheet (yoksel)](http://yoksel.github.io/flex-cheatsheet/)
+9. [Интерактивная игра для изучения flexbox (flexboxfroggy)](http://flexboxfroggy.com/)
+10. [Веселое изучение flexbox (flexbox-game)](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
+11. [Flexbox game (flexboxdefense)](http://www.flexboxdefense.com/)
+12. [Как сделать sticky footer при резиновой верстке](http://shpargalkablog.ru/2014/02/footer-bottom.html)
+13. [Firefox overflow-y not working with nested flexbox](http://stackoverflow.com/questions/28636832/firefox-overflow-y-not-working-with-nested-flexbox)
+14. [Flexbox Tester (Understand how to calculate the width of flex items)](https://madebymike.com.au/demos/flexbox-tester/)
+15. [11 вещей которые я узнал, читая спецификацию flexbox](https://habrahabr.ru/post/329820/)
+16. **Формула расчета flex-grow** (*насколько будет растянут flex-элемент относительно оставшихся flex-элементов во flex-контейнере при распределении положительного свободного пространства*): 
 
     (Итог.размер_1 - flex-basis_1) * flex-grow_2 = (Итог.размер_2 - flex-basis_2) * flex-grow_1, 
     *где *_1 - свойства одного flex-элемента, а *_2 - другого flex-элемента.*
     
-15. **Формула расчета flex-shrink** (*насколько будет сужен flex-элемент относительно оставшихся flex-элементов во flex-контейнере при распределении отрицательного свободного пространства*): 
+17. **Формула расчета flex-shrink** (*насколько будет сужен flex-элемент относительно оставшихся flex-элементов во flex-контейнере при распределении отрицательного свободного пространства*): 
 
     (flex-basis_1 - Итог.размер_1) * flex-basis_2 * flex-shrink_2 = (flex-basis_2 - Итог.размер_2) * flex-basis_1 * flex-shrink_1, 
     *где *_1 - свойства одного flex-элемента, а *_2 - другого flex-элемента.*
 
-16. [Flexbugs](https://github.com/philipwalton/flexbugs)
+18. [Flexbugs](https://github.com/philipwalton/flexbugs)
+
 ======
 
 ### Media Queries
@@ -101,6 +104,7 @@
 1. Writing modular CSS (Zell Liew): [part 1](https://zellwk.com/blog/css-architecture-1/) (BEM), [part 2](https://zellwk.com/blog/css-architecture-2/) (BEM + OOCSS +Atomic Design), [part 3](https://zellwk.com/blog/css-architecture-3/) (file structure and organization)
 2. [Tame Unruly Style Sheets With These Three CSS Methodologies](https://www.sitepoint.com/tame-unruly-style-sheets-three-css-architecture-methodologies/) (BEM, SMACSS, ECSS)
 3. [Способы организации CSS-кода (habrahabr)](https://habrahabr.ru/post/256109/)
+4. [Methods to Organize CSS](https://css-tricks.com/methods-organize-css/)
 
 #### Методолия БЕМ
 1. [Официальная документация](https://ru.bem.info/)
@@ -141,9 +145,10 @@
 6. [SCSS — немного практики (habrahabr)](https://habrahabr.ru/post/140612/)
 7. Видео-уроки от loftblog: [SASS и SCSS](http://loftblog.ru/lessons/sass-scss/), [SASS и Compass. Введение](http://loftblog.ru/material/legkoe-pogruzhenie-v-sass-i-compass/), [SASS и Compass. Продолжение](http://loftblog.ru/material/vvedenie-v-sass-compass-prodolzhenie/)
 8. [7 Sass techniques to help you write better code](https://www.devbridge.com/articles/7-sass-techniques-to-help-you-write-better-code/?utm_source=CSS-Weekly&utm_campaign=Issue-266&utm_medium=email) 
-9. Media Queries в SASS: [Как использовать Media Queries](https://habrahabr.ru/post/156645/), [Media queries in Sass](http://thesassway.com/intermediate/responsive-web-design-part-2)
-10. [Sassmeister - онлайн-редактор, поддерживающий синтаксис SASS и SCSS](http://www.sassmeister.com/)
-11. [Онлайн-конвертер из SCSS в CSS](http://medialize.github.io/playground.sass.js/)
+9. [10 Things You Probably Didn’t Know about Sass](https://hackernoon.com/10-things-you-probably-didnt-know-about-syntactically-awesome-style-sheets-d94bc5c137e6)
+10. Media Queries в SASS: [Как использовать Media Queries](https://habrahabr.ru/post/156645/), [Media queries in Sass](http://thesassway.com/intermediate/responsive-web-design-part-2)
+11. [Sassmeister - онлайн-редактор, поддерживающий синтаксис SASS и SCSS](http://www.sassmeister.com/)
+12. [Онлайн-конвертер из SCSS в CSS](http://medialize.github.io/playground.sass.js/)
 
 #### Stylus
 1. [Официальный сайт](http://stylus-lang.com/)
@@ -200,15 +205,16 @@
 23. [Несколько дельных советов по CSS (habrahabr)](https://habrahabr.ru/post/273403/)
 24. [8 правил для улучшения вашего CSS](http://forwebdev.ru/css/8-rules-to-improve-css/)
 25. [Golden Guidelines for Writing Clean CSS](https://www.sitepoint.com/golden-guidelines-for-writing-clean-css/)
-26. [Коллекция практических советов и заметок по вёрстке (habrahabr)](https://habrahabr.ru/post/273471/?mobile=no)
-27. [CSS для Javascript разработчика](https://learn.javascript.ru/css-for-js)
-28. [50 фрагментов CSS полезных каждому дизайнеру](http://webformyself.com/50-fragmentov-css-poleznyx-kazhdomu-dizajneru/)
-29. [Точки между словами на CSS](https://medium.com/@inomdzhon/dot-leaders-%D0%B8%D0%BB%D0%B8-%D1%82%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8-%D0%BD%D0%B0-css-5c56d0eaabd0#.m580zpvzz)
-30. [Sorax. Конкурс верстки. Анализ работ победителей (видео)](https://www.youtube.com/watch?v=snu8Rg6iNW4)
-31. [Тестирование верстки (makeup)](https://habrahabr.ru/post/277457/)
-32. [Баги в браузерах. Кто виноват и что делать?](https://www.youtube.com/watch?v=K-t9FIs2WTo&feature=em-uploademail)
-33. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
-34. [Использование viewport-единиц в типографике](http://webbeaver.ru/future/viewport-unit/?ct=t(hamail_20160415)) 
+26. [Советы по написанию современного CSS](http://nicothin.pro/page/css-solutions)
+27. [Коллекция практических советов и заметок по вёрстке (habrahabr)](https://habrahabr.ru/post/273471/?mobile=no)
+28. [CSS для Javascript разработчика](https://learn.javascript.ru/css-for-js)
+29. [50 фрагментов CSS полезных каждому дизайнеру](http://webformyself.com/50-fragmentov-css-poleznyx-kazhdomu-dizajneru/)
+30. [Точки между словами на CSS](https://medium.com/@inomdzhon/dot-leaders-%D0%B8%D0%BB%D0%B8-%D1%82%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8-%D0%BD%D0%B0-css-5c56d0eaabd0#.m580zpvzz)
+31. [Sorax. Конкурс верстки. Анализ работ победителей (видео)](https://www.youtube.com/watch?v=snu8Rg6iNW4)
+32. [Тестирование верстки (makeup)](https://habrahabr.ru/post/277457/)
+33. [Баги в браузерах. Кто виноват и что делать?](https://www.youtube.com/watch?v=K-t9FIs2WTo&feature=em-uploademail)
+34. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
+35. [Использование viewport-единиц в типографике](http://webbeaver.ru/future/viewport-unit/?ct=t(hamail_20160415)) 
 
 ======
 
