@@ -75,8 +75,10 @@
 10. [Свойство image-rendering](https://css-tricks.com/almanac/properties/i/image-rendering/)
 11. [Customize the browser’s scrollbar with CSS](https://scotch.io/tutorials/customize-the-browsers-scrollbar-with-css)
 12. [CSS property all](https://css-tricks.com/almanac/properties/a/all/)
-13. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
-14. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
+13. [Clipping and Masking in CSS](https://css-tricks.com/clipping-masking-css/)
+14. [CSS clip-path maker](http://bennettfeely.com/clippy/)
+15. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
+16. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
 
 ======
 
