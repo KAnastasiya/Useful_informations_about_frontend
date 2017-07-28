@@ -41,6 +41,8 @@
 4. [Видео от loftblog](http://loftblog.ru/material/gulp-js-rabotaem-s-css-concat-minify-rename-notify-watch-dest/)
 5. [Автоматизация работы с Gulp](https://webref.ru/dev/automate-with-gulp)
 6. [node-normalize-scss](https://www.npmjs.com/package/node-normalize-scss) (плагин для подключенияя normalize.scss)
+7. [HOW DO I UPDATE TO GULP 4?](https://www.liquidlight.co.uk/blog/article/how-do-i-update-to-gulp-4/)
+8. [В gulp-sass не работает @import, как вы решили проблему?](https://toster.ru/q/254543)
 
 ##### Полезные плагины:
 
