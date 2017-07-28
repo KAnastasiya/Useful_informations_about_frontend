@@ -74,6 +74,7 @@
 12. [Babel - кроссбраузерная поддержка ES-2015 (официальный сайт)](https://babeljs.io/)
 13. [Babel ESLint](https://github.com/babel/babel-eslint) 
 14. [es6console](https://es6console.com/)
+15. [ES6 Katas](http://es6katas.org/)
 
 ======
 
