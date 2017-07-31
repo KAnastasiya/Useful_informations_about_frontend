@@ -79,8 +79,10 @@
 12. [CSS property all](https://css-tricks.com/almanac/properties/a/all/)
 13. [Clipping and Masking in CSS](https://css-tricks.com/clipping-masking-css/)
 14. [CSS clip-path maker](http://bennettfeely.com/clippy/)
-15. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
-16. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
+15. [5 CSS Properties That You Probably Don’t Know](http://developer.telerik.com/topics/web-development/5-css-properties-probably-still-dont-know/amp/) (font-display, contain, writing-mode, clip-path, will-change)
+16. [Умная прокрутка со Scroll Snap Points](http://css.yoksel.ru/scroll-snap/)
+17. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
+18. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
 
 ======
 
