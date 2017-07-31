@@ -39,6 +39,8 @@
 
 *Об установке Node на Ubuntu 16.04 см. [здесь](https://losst.ru/ustanovka-node-js-ubuntu-16-04) !!! для установки ссылки для совместимости  выполнить команду `sudo ln -s /usr/bin/nodejs /usr/local/bin/node`*
 
+*Об обновлении Node.js см. [здесь](https://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version)*
+
 2. Создайте каталог своего проекта, перейдите в него и выполните команду `npm init` (эта команда выдает целый ряд приглашений, которые Вы можете пропускать (нажимать Enter)).
 3. Установите [Express](http://expressjs.com/ru/) - веб-фреймворк для приложений Node.js, выполнив в каталоге Вашего проекта комманду `npm install express --save`
 4. Создать файл `<ИМЯ ФАЙЛА>.js` с содержимым:
