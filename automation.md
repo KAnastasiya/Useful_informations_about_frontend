@@ -175,6 +175,7 @@
 1. [Официальный сайт](https://www.npmjs.com/) 
 2. [For Beginners](https://www.impressivewebs.com/npm-for-beginners-a-guide-for-)
 3. [Установка и использование переменных среды для разных платформ](https://www.npmjs.com/package/cross-env)
+4. [Представляем npx: утилиту для запуска npm-пакетов](https://medium.com/devschacht/introducing-npx-an-npm-package-runner-a72a658cd9e6)
 
 ##### Yarn
 3. [Официальный сайт](https://yarnpkg.com/en/)
@@ -190,12 +191,13 @@
 3. [Как быстро работать с GIT](https://geekbrains.ru/events/218)
 4. [Обучающий курс от codeacademy](https://www.codecademy.com/learn/learn-git)
 5. [Книга "О Git"](http://howtodoit.com.ua/wp-content/uploads/2014/02/progit.ru_.pdf)
-6. [githowto](https://githowto.com/)
-7. [try Git](https://try.github.io/levels/1/challenges/1)
-8. [Git. Коллекция самых популярных вопросов](http://firstaidgit.ru/#/)
-9. [Git Tips](https://github.com/Imangazaliev/git-tips/blob/master/README.md)
-10. [Советы по написанию коммитов (habrahabr)](https://habrahabr.ru/company/Voximplant/blog/276695/)
-11. [GitKraken](https://www.gitkraken.com/) - кроссплатформенное приложение для контроля версий
+6. [Системы контроля версий (GIT)](https://ru.hexlet.io/courses/intro_to_git) (hexlet)
+7. [githowto](https://githowto.com/)
+8. [try Git](https://try.github.io/levels/1/challenges/1)
+9. [Git. Коллекция самых популярных вопросов](http://firstaidgit.ru/#/)
+10. [Git Tips](https://github.com/Imangazaliev/git-tips/blob/master/README.md)
+11. [Советы по написанию коммитов (habrahabr)](https://habrahabr.ru/company/Voximplant/blog/276695/)
+12. [GitKraken](https://www.gitkraken.com/) - кроссплатформенное приложение для контроля версий
 
 ======
 
@@ -207,5 +209,6 @@
 3. [GitHub. Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 4. [Great README](https://medium.com/code-the-world/writing-a-great-readme-written-by-daniel-bader-4a02d1edc7a#.6uceset1o)
 5. [Хостинг на GitHub (gh-pages)](https://htmlacademy.ru/blog/99-github-as-hosting)
-6. [GitHub Gist - хранение и повторное использование кода](https://www.youtube.com/watch?v=fUUXus8gGk0)
-7. [Невидимые друзья вашего github-репозитория](https://habrahabr.ru/company/eastbanctech/blog/323760/) 
+6. [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
+7. [GitHub Gist - хранение и повторное использование кода](https://www.youtube.com/watch?v=fUUXus8gGk0)
+8. [Невидимые друзья вашего github-репозитория](https://habrahabr.ru/company/eastbanctech/blog/323760/) 
