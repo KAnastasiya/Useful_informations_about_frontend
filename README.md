@@ -15,13 +15,14 @@
 12. [Сайт отзывчивый или адаптивный?](http://blog.sibirix.ru/2015/04/21/adaptive-responsive/)
 13. [Адаптивно-отзывчивый: разбираемся в терминологии](http://frontender.info/adaptive-vs-responsive-terminology/)
 14. [Современные подходы в верстке](https://www.youtube.com/watch?v=soWgVoOgQ_s)
-15. [Сравнение выполнения одних и тех же действий на jQuery и без него](http://youmightnotneedjquery.com/)
-16. [Эволюция Интернета](http://www.evolutionoftheweb.com/)
-17. [Принципы работы современных веб-браузеров](http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/#Parsing_general)
-18. [Как лучше вставить логотип на страницу](http://css.yoksel.ru/a11y-for-logotypes/?ct=t(hamail_20170115))
-19. [Creating Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=obzor-sposobov-sozdaniya-shapok-so-slozhnoy)
-20. [Верстка не тупо](http://webmasters.teamdev.com/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=vyorstka--eto-ne-tupo!-bezumno-krutoe-ru) 
-21. [Бесплатные макеты для верстки](http://psd-html-css.ru/) 
+15. [Адаптивная верстка 5 лет спустя](https://www.youtube.com/watch?v=Xp1lu2V9Q3A&feature=youtu.be)
+16. [Сравнение выполнения одних и тех же действий на jQuery и без него](http://youmightnotneedjquery.com/)
+17. [Эволюция Интернета](http://www.evolutionoftheweb.com/)
+18. [Принципы работы современных веб-браузеров](http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/#Parsing_general)
+19. [Как лучше вставить логотип на страницу](http://css.yoksel.ru/a11y-for-logotypes/?ct=t(hamail_20170115))
+20. [Creating Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=obzor-sposobov-sozdaniya-shapok-so-slozhnoy)
+21. [Верстка не тупо](http://webmasters.teamdev.com/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=vyorstka--eto-ne-tupo!-bezumno-krutoe-ru) 
+22. [Бесплатные макеты для верстки](http://psd-html-css.ru/) 
 
 ======
 
@@ -59,6 +60,7 @@
 7. Подключение нестандартных шрифтов: [часть 1](https://webfont.ru/blog/about-font-face-part-one/) и [часть 2](https://webfont.ru/blog/about-font-face-part-two/)
 8. Конвертер шрифтов: [font2web](http://www.font2web.com/) и [onlinefontconverter](https://onlinefontconverter.com/)
 9. [Оптимизация шрифтов](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
+10. [Подключение шрифта к странице: как нужно делать сейчас](http://nicothin.pro/page/web-fonts)
 
 ======
 
