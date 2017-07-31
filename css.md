@@ -60,17 +60,19 @@
 13. [Firefox overflow-y not working with nested flexbox](http://stackoverflow.com/questions/28636832/firefox-overflow-y-not-working-with-nested-flexbox)
 14. [Flexbox Tester (Understand how to calculate the width of flex items)](https://madebymike.com.au/demos/flexbox-tester/)
 15. [11 вещей которые я узнал, читая спецификацию flexbox](https://habrahabr.ru/post/329820/)
-16. **Формула расчета flex-grow** (*насколько будет растянут flex-элемент относительно оставшихся flex-элементов во flex-контейнере при распределении положительного свободного пространства*): 
+16. [Отличия между свойствами width и flex-basis](https://gist.github.com/kuflash/5e8f1644cb544ccfa4a253dccec900a3)
+
+17. **Формула расчета flex-grow** (*насколько будет растянут flex-элемент относительно оставшихся flex-элементов во flex-контейнере при распределении положительного свободного пространства*): 
 
     (Итог.размер_1 - flex-basis_1) * flex-grow_2 = (Итог.размер_2 - flex-basis_2) * flex-grow_1, 
     *где *_1 - свойства одного flex-элемента, а *_2 - другого flex-элемента.*
     
-17. **Формула расчета flex-shrink** (*насколько будет сужен flex-элемент относительно оставшихся flex-элементов во flex-контейнере при распределении отрицательного свободного пространства*): 
+18. **Формула расчета flex-shrink** (*насколько будет сужен flex-элемент относительно оставшихся flex-элементов во flex-контейнере при распределении отрицательного свободного пространства*): 
 
     (flex-basis_1 - Итог.размер_1) * flex-basis_2 * flex-shrink_2 = (flex-basis_2 - Итог.размер_2) * flex-basis_1 * flex-shrink_1, 
     *где *_1 - свойства одного flex-элемента, а *_2 - другого flex-элемента.*
 
-18. [Flexbugs](https://github.com/philipwalton/flexbugs)
+19. [Flexbugs](https://github.com/philipwalton/flexbugs)
 
 ======
 
@@ -126,6 +128,7 @@
 1. [Почему стоит использовать препроцессоры (habrahabr)](https://habrahabr.ru/post/214143/)
 2. [SASS против LESS (habrahabr.ru)](https://habrahabr/post/144309/)
 3. [CSS-препроцессоры](https://www.youtube.com/watch?v=jrCr9f9bIiM&t=252s&index=1&list=PLuEo4W0EBxtVyV0ycYJVLiOvwVSZXS3Iw)
+4. [Как правильно использовать переменные в препроцессорах LESS и SASS](https://habrahabr.ru/post/332382/)
 
 #### LESS
 1. [Официальный сайт](http://lesscss.org/)
@@ -146,9 +149,11 @@
 7. Видео-уроки от loftblog: [SASS и SCSS](http://loftblog.ru/lessons/sass-scss/), [SASS и Compass. Введение](http://loftblog.ru/material/legkoe-pogruzhenie-v-sass-i-compass/), [SASS и Compass. Продолжение](http://loftblog.ru/material/vvedenie-v-sass-compass-prodolzhenie/)
 8. [7 Sass techniques to help you write better code](https://www.devbridge.com/articles/7-sass-techniques-to-help-you-write-better-code/?utm_source=CSS-Weekly&utm_campaign=Issue-266&utm_medium=email) 
 9. [10 Things You Probably Didn’t Know about Sass](https://hackernoon.com/10-things-you-probably-didnt-know-about-syntactically-awesome-style-sheets-d94bc5c137e6)
-10. Media Queries в SASS: [Как использовать Media Queries](https://habrahabr.ru/post/156645/), [Media queries in Sass](http://thesassway.com/intermediate/responsive-web-design-part-2)
-11. [Sassmeister - онлайн-редактор, поддерживающий синтаксис SASS и SCSS](http://www.sassmeister.com/)
-12. [Онлайн-конвертер из SCSS в CSS](http://medialize.github.io/playground.sass.js/)
+10. [4 techniques for responsive font sizing with SCSS](https://medium.com/@martijn.cuppens/4-techniques-for-responsive-font-sizing-with-scss-f663791c62f0)
+11. Media Queries в SASS: [Как использовать Media Queries](https://habrahabr.ru/post/156645/), [Media queries in Sass](http://thesassway.com/intermediate/responsive-web-design-part-2)
+12. [Using Sass Maps](https://www.sitepoint.com/using-sass-maps/)
+13. [Sassmeister - онлайн-редактор, поддерживающий синтаксис SASS и SCSS](http://www.sassmeister.com/)
+14. [Онлайн-конвертер из SCSS в CSS](http://medialize.github.io/playground.sass.js/)
 
 #### Stylus
 1. [Официальный сайт](http://stylus-lang.com/)
