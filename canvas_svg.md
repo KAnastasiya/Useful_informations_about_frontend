@@ -15,6 +15,7 @@
 9. [Canvas2Image](https://github.com/hongru/canvas2image )- tool for saving or converting canvas as image
 10. [CanvasLayers](https://bitbucket.org/ant512/canvaslayers/wiki/Home) - js-library that adds support for layers without using multiple stacked canvases, just one canvas is used
 11. [jCanvas](https://projects.calebevans.me/jcanvas/docs/rectangles/) - jQuery plugin that makes the HTML5 canvas easy to work with
+12. [Create Graphics with HTML Canvas](https://egghead.io/courses/create-graphics-with-html-canvas) (egghead.io)
 
 ======
 
