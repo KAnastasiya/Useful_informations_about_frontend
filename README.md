@@ -72,6 +72,12 @@
 
 ======
 
+### Favicon
+1. [Откуда взялся favicon](https://medium.com/@slonoed/%D0%BE%D1%82%D0%BA%D1%83%D0%B4%D0%B0-%D0%B2%D0%B7%D1%8F%D0%BB%D1%81%D1%8F-favicon-dee620fdf4eb)
+2. [Favicon сегодня: форматы, поддержка, автоматизация](https://habrahabr.ru/post/330584/?utm_source=tw&utm_medium=social&utm_campaign)
+
+======
+
 ### Правильные формы и модальные окна
 1. [10 правил хороших форм](https://www.artlebedev.ru/tools/technogrette/etc/forms/)
 2. [Техники валидации форм](https://htmlacademy.ru/blog/95-form-validation-techniques)
