@@ -12,26 +12,29 @@
 9. [Тестирование верстки](http://xiper.net/collect/weekdays-front-end-dev/the-work-in-general/testing-layout)
 10. [Как мы разрабатывали критерии для оценки качества вёрстки веб-проектов (htmlacademy)](https://habrahabr.ru/company/htmlacademy/blog/254171/)
 11. [Создание сайта. Курс молодого бойца](https://habrahabr.ru/post/273795)
-12. [Сайт отзывчивый или адаптивный?](http://blog.sibirix.ru/2015/04/21/adaptive-responsive/)
-13. [Адаптивно-отзывчивый: разбираемся в терминологии](http://frontender.info/adaptive-vs-responsive-terminology/)
-14. [Основы адаптивной/кроссбраузерной вёрстки](https://youtu.be/vGCP_THmW8c)
-15. [Адаптивная верстка 5 лет спустя](https://www.youtube.com/watch?v=Xp1lu2V9Q3A&feature=youtu.be)
-16. [Современные подходы в верстке](https://www.youtube.com/watch?v=soWgVoOgQ_s)
-17. [Сравнение выполнения одних и тех же действий на jQuery и без него](http://youmightnotneedjquery.com/)
-18. [Эволюция Интернета](http://www.evolutionoftheweb.com/)
-19. [Принципы работы современных веб-браузеров](http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/#Parsing_general)
-20. [Как лучше вставить логотип на страницу](http://css.yoksel.ru/a11y-for-logotypes/?ct=t(hamail_20170115))
-21. [Creating Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=obzor-sposobov-sozdaniya-shapok-so-slozhnoy)
-22. [Верстка не тупо](http://webmasters.teamdev.com/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=vyorstka--eto-ne-tupo!-bezumno-krutoe-ru) 
-23. [Бесплатные макеты для верстки](http://psd-html-css.ru/) 
+12. [Эволюция Интернета](http://www.evolutionoftheweb.com/)
+13. [Принципы работы современных веб-браузеров](http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/#Parsing_general)
+14. [Как лучше вставить логотип на страницу](http://css.yoksel.ru/a11y-for-logotypes/?ct=t(hamail_20170115))
+15. [Creating Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=obzor-sposobov-sozdaniya-shapok-so-slozhnoy)
+16. [Верстка не тупо](http://webmasters.teamdev.com/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=vyorstka--eto-ne-tupo!-bezumno-krutoe-ru) 
+17. [Современные подходы в верстке](https://www.youtube.com/watch?v=soWgVoOgQ_s)
+
+======
+
+### Отзывчивость и адаптивность дизайна
+1. [Сайт отзывчивый или адаптивный?](http://blog.sibirix.ru/2015/04/21/adaptive-responsive/)
+2. [Адаптивно-отзывчивый: разбираемся в терминологии](http://frontender.info/adaptive-vs-responsive-terminology/)
+3. [Основы адаптивной/кроссбраузерной вёрстки](https://youtu.be/vGCP_THmW8c)
+4. [Адаптивная верстка 5 лет спустя](https://www.youtube.com/watch?v=Xp1lu2V9Q3A&feature=youtu.be)
+5. [Полный контроль над контрольными точками. В CSS и в JS](http://css-live.ru/articles/polnyj-kontrol-nad-kontrolnymi-tochkami-v-css-i-v-js.html)
 
 ======
 
 ### Подходы Progressive enhancement и Graceful degradation
-- [Graceful Degradation](https://htmlacademy.ru/blog/6-graceful-degradation)
-- [Progressive Enhancement](https://htmlacademy.ru/blog/7-progressive-enhancement)
-- [Progressive enhancement на примере формы входа](https://htmlacademy.ru/demos/1#step1)
-- [Так ли дорого прогрессивное улучшение?](https://htmlacademy.ru/blog/8-is-it-expensive-to-progressive-enhancement)
+1. [Graceful Degradation](https://htmlacademy.ru/blog/6-graceful-degradation)
+2. [Progressive Enhancement](https://htmlacademy.ru/blog/7-progressive-enhancement)
+3. [Progressive enhancement на примере формы входа](https://htmlacademy.ru/demos/1#step1)
+4. [Так ли дорого прогрессивное улучшение?](https://htmlacademy.ru/blog/8-is-it-expensive-to-progressive-enhancement)
 
 ======
 
@@ -55,13 +58,17 @@
 1. [Коллекция шрифтов](http://fonts.in.ua/font)
 2. [Google Fonts](https://fonts.google.com/)
 3. [Font Squirrel](https://www.fontsquirrel.com/)
-4. [Подключение ttf- и eof-шрифтов через @font-face](https://webref.ru/layout/html5-css3/text/font-face)
-5. [@font-face в деталях](http://xiper.net/collect/html-and-css-tricks/typographics/font-face-in-the-details)
-6. [Bulletproof font face](https://github.com/CSSLint/csslint/wiki/bulletproof-font-face)
-7. Подключение нестандартных шрифтов: [часть 1](https://webfont.ru/blog/about-font-face-part-one/) и [часть 2](https://webfont.ru/blog/about-font-face-part-two/)
-8. Конвертер шрифтов: [font2web](http://www.font2web.com/) и [onlinefontconverter](https://onlinefontconverter.com/)
-9. [Оптимизация шрифтов](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
-10. [Подключение шрифта к странице: как нужно делать сейчас](http://nicothin.pro/page/web-fonts)
+4. [FontStorage](https://fontstorage.com/)
+5. [Подключение ttf- и eof-шрифтов через @font-face](https://webref.ru/layout/html5-css3/text/font-face)
+6. [@font-face в деталях](http://xiper.net/collect/html-and-css-tricks/typographics/font-face-in-the-details)
+7. [Bulletproof font face](https://github.com/CSSLint/csslint/wiki/bulletproof-font-face)
+8. Подключение нестандартных шрифтов: [часть 1](https://webfont.ru/blog/about-font-face-part-one/) и [часть 2](https://webfont.ru/blog/about-font-face-part-two/)
+9. [Подключение шрифта к странице: как нужно делать сейчас](http://nicothin.pro/page/web-fonts)
+[Посторонние шрифты - HTML- шорты](https://youtu.be/MTQ9FpT3ayc)
+[Паттерны загрузки веб-шрифтов](https://web-standards.ru/articles/web-font-loading-patterns/)
+10. Конвертер шрифтов: [font2web](http://www.font2web.com/) и [onlinefontconverter](https://onlinefontconverter.com/)
+11. [Оптимизация шрифтов](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
+12. [Font Face Observer](https://fontfaceobserver.com/)
 
 ======
 
@@ -107,6 +114,12 @@
 - [web-standards](https://soundcloud.com/web-standards) - новости фронтенда
 - [5minreact](http://5minreact.ru/) - подкаст о React и смежных технологиях в мире JavaScript
 - [frontflipjs](https://soundcloud.com/frontflipjs) - подкаст о JavaScript'e, фронтенде и сопутствующих технологиях
+
+======
+
+### PSD-макеты
+- [psd-html-css.ru](http://psd-html-css.ru/shablony/besplatnye-psd-makety)
+- [psdrepo.com](https://psdrepo.com/)
 
 ======
 
