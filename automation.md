@@ -96,6 +96,7 @@
 8. [Babel в Webpack (модуль babel-loader)](https://github.com/babel/babel-loader)
 9. [Пример моего конфига для Webpack 2](https://github.com/KAnastasiya/Webpack_2)
 10. [Webpack Academy](https://webpack.academy/)
+11. [Webpack 2 tutorials, explaining Webpack API to complete beginners (videos)](https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY)
 
 #### Webpack 2
 - [Официальная документация](https://webpack.js.org/concepts/)
@@ -176,10 +177,12 @@
 2. [For Beginners](https://www.impressivewebs.com/npm-for-beginners-a-guide-for-)
 3. [Установка и использование переменных среды для разных платформ](https://www.npmjs.com/package/cross-env)
 4. [Представляем npx: утилиту для запуска npm-пакетов](https://medium.com/devschacht/introducing-npx-an-npm-package-runner-a72a658cd9e6)
+5. [HOW TO: update all npm packages in your project at once](https://medium.com/@_jh3y/how-to-update-all-npm-packages-in-your-project-at-once-17a8981860ea)
 
 ##### Yarn
-3. [Официальный сайт](https://yarnpkg.com/en/)
-4. [Видео от monsterlessons](http://monsterlessons.com/project/lessons/yarn-paketnyj-menedzher-ot-facebook) - менеджер пакетов от facebook
+1. [Официальный сайт](https://yarnpkg.com/en/)
+2. [Видео от monsterlessons](http://monsterlessons.com/project/lessons/yarn-paketnyj-menedzher-ot-facebook) - менеджер пакетов от facebook
+3. [NPM vs Yarn Cheat Sheet](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc)
 
 ======
 
