@@ -81,6 +81,7 @@
 2. [Медиазапросы: width против device-width (habrahabr)](https://habrahabr.ru/post/254871/)
 4. [Какие единицы использовать для медиа-запросов: px, em или rem?](http://webbeaver.ru/future/media-queries-px-em-rem/)
 5. [Approaches to Media Queries in Sass](https://css-tricks.com/approaches-media-queries-sass/#article-header-id-3)
+6. [How to use Media Queries in JavaScript](https://www.sitepoint.com/javascript-media-queries/)
 
 ======
 
