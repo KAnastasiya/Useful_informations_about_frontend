@@ -18,7 +18,7 @@
 
 |         Плагин         |         Назначение плагина, его возможности        |
 | ---------------------- | -------------------------------------------------- |
-| [Emmet](http://emmet.io/) | Ускорение написания разметки. Подробнее: [статья](http://remage.su/content/uskoryaem-napisanie-html-i-css-s-pomoshchyu-emmet-byvshiy-zen-coding) и [видео от Sorax](https://www.youtube.com/watch?v=mGPZ8P7xDLE) |
+| [Emmet](http://emmet.io/) | Ускорение написания разметки. Подробнее: [статья](http://remage.su/content/uskoryaem-napisanie-html-i-css-s-pomoshchyu-emmet-byvshiy-zen-coding), [видео от Sorax](https://www.youtube.com/watch?v=mGPZ8P7xDLE) и [cheat sheet](https://docs.emmet.io/cheat-sheet/) |
 | [Html5](https://packagecontrol.io/packages/HTML5) | Подсветка синтаксиса Html5 |
 | [Pug](https://packagecontrol.io/packages/Pug) | Проверяет корректность pug-файлов |
 | [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) | Подсветка скобки, парной для выделенной |
