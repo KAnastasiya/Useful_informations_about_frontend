@@ -79,6 +79,8 @@
 ### Media Queries
 1. [Адаптивный и мобильный дизайн с CSS3 (habrahabr)](http://habrahabr.ru/post/119127/)
 2. [Медиазапросы: width против device-width (habrahabr)](https://habrahabr.ru/post/254871/)
+4. [Какие единицы использовать для медиа-запросов: px, em или rem?](http://webbeaver.ru/future/media-queries-px-em-rem/)
+5. [Approaches to Media Queries in Sass](https://css-tricks.com/approaches-media-queries-sass/#article-header-id-3)
 
 ======
 
@@ -220,6 +222,7 @@
 33. [Баги в браузерах. Кто виноват и что делать?](https://www.youtube.com/watch?v=K-t9FIs2WTo&feature=em-uploademail)
 34. [Советы по кроссбраузерной верстке](http://www.internet-technologies.ru/articles/article_1834.html)
 35. [Использование viewport-единиц в типографике](http://webbeaver.ru/future/viewport-unit/?ct=t(hamail_20160415)) 
+36. [Font Size Idea: px at the Root, rem for Components, em for Text Elements](https://css-tricks.com/rems-ems/)
 
 ======
 
