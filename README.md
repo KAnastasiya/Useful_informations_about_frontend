@@ -64,11 +64,11 @@
 7. [Bulletproof font face](https://github.com/CSSLint/csslint/wiki/bulletproof-font-face)
 8. Подключение нестандартных шрифтов: [часть 1](https://webfont.ru/blog/about-font-face-part-one/) и [часть 2](https://webfont.ru/blog/about-font-face-part-two/)
 9. [Подключение шрифта к странице: как нужно делать сейчас](http://nicothin.pro/page/web-fonts)
-[Посторонние шрифты - HTML- шорты](https://youtu.be/MTQ9FpT3ayc)
-[Паттерны загрузки веб-шрифтов](https://web-standards.ru/articles/web-font-loading-patterns/)
-10. Конвертер шрифтов: [font2web](http://www.font2web.com/) и [onlinefontconverter](https://onlinefontconverter.com/)
-11. [Оптимизация шрифтов](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
-12. [Font Face Observer](https://fontfaceobserver.com/)
+10. [Посторонние шрифты - HTML- шорты](https://youtu.be/MTQ9FpT3ayc)
+11. [Паттерны загрузки веб-шрифтов](https://web-standards.ru/articles/web-font-loading-patterns/)
+12. Конвертер шрифтов: [font2web](http://www.font2web.com/) и [onlinefontconverter](https://onlinefontconverter.com/)
+13. [Оптимизация шрифтов](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
+14. [Font Face Observer](https://fontfaceobserver.com/)
 
 ======
 
