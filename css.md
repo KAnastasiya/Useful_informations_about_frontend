@@ -80,8 +80,9 @@
 1. [Адаптивный и мобильный дизайн с CSS3 (habrahabr)](http://habrahabr.ru/post/119127/)
 2. [Медиазапросы: width против device-width (habrahabr)](https://habrahabr.ru/post/254871/)
 4. [Какие единицы использовать для медиа-запросов: px, em или rem?](http://webbeaver.ru/future/media-queries-px-em-rem/)
-5. [Approaches to Media Queries in Sass](https://css-tricks.com/approaches-media-queries-sass/#article-header-id-3)
-6. [How to use Media Queries in JavaScript](https://www.sitepoint.com/javascript-media-queries/)
+5. [How to use Media Queries in JavaScript](https://www.sitepoint.com/javascript-media-queries/)
+
+*О Media Queries в Sass см. ниже*
 
 ======
 
@@ -154,9 +155,10 @@
 9. [10 Things You Probably Didn’t Know about Sass](https://hackernoon.com/10-things-you-probably-didnt-know-about-syntactically-awesome-style-sheets-d94bc5c137e6)
 10. [4 techniques for responsive font sizing with SCSS](https://medium.com/@martijn.cuppens/4-techniques-for-responsive-font-sizing-with-scss-f663791c62f0)
 11. Media Queries в SASS: [Как использовать Media Queries](https://habrahabr.ru/post/156645/), [Media queries in Sass](http://thesassway.com/intermediate/responsive-web-design-part-2)
-12. [Using Sass Maps](https://www.sitepoint.com/using-sass-maps/)
-13. [Sassmeister - онлайн-редактор, поддерживающий синтаксис SASS и SCSS](http://www.sassmeister.com/)
-14. [Онлайн-конвертер из SCSS в CSS](http://medialize.github.io/playground.sass.js/)
+12. [Approaches to Media Queries in Sass](https://css-tricks.com/approaches-media-queries-sass/#article-header-id-3)
+13. [Using Sass Maps](https://www.sitepoint.com/using-sass-maps/)
+14. [Sassmeister - онлайн-редактор, поддерживающий синтаксис SASS и SCSS](http://www.sassmeister.com/)
+15. [Онлайн-конвертер из SCSS в CSS](http://medialize.github.io/playground.sass.js/)
 
 #### Stylus
 1. [Официальный сайт](http://stylus-lang.com/)
