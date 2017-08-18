@@ -82,14 +82,17 @@
 ### Настройки редактора (Preferences - Settings - User):
 ```
 {
+  "atomic_save": true,
   "bold_folder_labels": true,
   "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
   "draw_white_space": "all",
   "expand_tabs_on_save": true,
-  "font_face": "Ubuntu Mono",   // для Windows - "font_face": "Office Code Pro", 
-  "font_size": 13,              // для Windows - "font_size": 8,
+  "fallback_encodint": "Cyrillic (Windows 1251)",
+  "font_face": "Ubuntu Mono",   // для Windows - "font_face": "Consolas", 
+  "font_size": 13,              // для Windows - "font_size": 10,
   "highlight_line": true,
   "highlight_modified_tabs": true,
+  "instagoogling_is_open": false,
   "line_padding_bottom": 8,
   "rulers": [120],
   "show_encoding": true,
@@ -99,11 +102,9 @@
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
   "word_wrap": true,
-  "wrap_width": 100,
+  "wrap_width": 120,
   "ignored_packages": [
 		"Vintage"
 	],
 }
 ```
-
-*Ubuntu Mono встроенный шрифт, а [Office-Code-Pro](https://github.com/nathco/Office-Code-Pro) нужно установить и подключить в ST3*
