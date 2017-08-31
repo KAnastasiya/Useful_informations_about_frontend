@@ -10,30 +10,31 @@
 9. [CSS Grid (UsefulWeb)](https://www.youtube.com/watch?v=BmRtCQiBG1o&feature=youtu.be)
 10. [Learn CSS Grid](http://learncssgrid.com/)
 11. [CSS Grid на практике: добавляем гриды к существующему дизайну](http://css-live.ru/articles/css-grid-na-praktike-dobavlyaem-gridy-k-sushhestvuyushhemu-dizajnu.html)
-12. [Replace Bootstrap Layouts with CSS Grid](https://hacks.mozilla.org/2017/04/replace-bootstrap-layouts-with-css-grid/)
-13. [Красивое выравнивание блоков по резиновой сетке. По-новому](http://css-live.ru/css/responsive-grid-css-grid-layout-auto-fill.html) 
-14. [Свойства для выравнивания всего и их новые тайны](http://css-live.ru/articles-css/svojstva-dlya-vyravnivaniya-vsego-i-ix-novye-tajny.html)
-15. [Как грид-раскладка (Grid Layout) провела лето](http://css-live.ru/articles/kak-grid-raskladka-grid-layout-provela-leto.html)
-16. [Grid garden (game)](http://cssgridgarden.com)
-17. [Griddy](http://www.griddy.io/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=griddy--interaktivnaya-pesochnitsa-dlya-izuch)
-18. [CSS Grid Cheat Sheet (alialaa)](https://alialaa.github.io/css-grid-cheat-sheet/)
-19. [Как работает функция minmax()](http://css-live.ru/articles/kak-rabotaet-funkciya-minmax.html)
-20. [Firefox. CSS Grid Inspector](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
+12. [Вёрстка реальных проектов на гридах (CSS Grid Layout) уже сейчас](http://css-live.ru/articles/vyorstka-realnyx-proektov-na-gridax-css-grid-layout-uzhe-sejchas.html)
+13. [Replace Bootstrap Layouts with CSS Grid](https://hacks.mozilla.org/2017/04/replace-bootstrap-layouts-with-css-grid/)
+14. [Красивое выравнивание блоков по резиновой сетке. По-новому](http://css-live.ru/css/responsive-grid-css-grid-layout-auto-fill.html) 
+15. [Свойства для выравнивания всего и их новые тайны](http://css-live.ru/articles-css/svojstva-dlya-vyravnivaniya-vsego-i-ix-novye-tajny.html)
+16. [Как грид-раскладка (Grid Layout) провела лето](http://css-live.ru/articles/kak-grid-raskladka-grid-layout-provela-leto.html)
+17. [Grid garden (game)](http://cssgridgarden.com)
+18. [Griddy](http://www.griddy.io/?utm_source=forwebdev_twtr&utm_medium=announcement&utm_campaign=griddy--interaktivnaya-pesochnitsa-dlya-izuch)
+19. [CSS Grid Cheat Sheet (alialaa)](https://alialaa.github.io/css-grid-cheat-sheet/)
+20. [Как работает функция minmax()](http://css-live.ru/articles/kak-rabotaet-funkciya-minmax.html)
+21. [Firefox. CSS Grid Inspector](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
 
 ======
 
-### Web components
+### Web components. Custom Elements
 1. [Web_Components. MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 2. [Веб компоненты: светлое настоящее, Вадим Черненко](https://youtu.be/KjPsp_PVPuU)
 3. [Shadow DOM v1 (Eric Bidelman)](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom)
 4. [Custom Elements v1 (Eric Bidelman)](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
-4. [DevBytes: Web Components](https://www.youtube.com/watch?v=T5y_lmLngAk&list=PLOU2XLYxmsIJkA_W95NDrjdkk3dR6Jq4w&index=1)
-5. [Custom Elements, Shadow Dom, CSS Scoping, HTML imports и т.д. (learn.javascript)](https://learn.javascript.ru/webcomponents)
-6. [Shadow Dom. Введение (frontender, часть 1)](http://frontender.info/shadowdom/)
-7. [Shadow Dom. CSS и стили (frontender, часть 2)](http://frontender.info/shadowdom-201/)
-8. [Shadow Dom. Продвинутые концепции и DOM API (frontender, часть 3)](http://frontender.info/shadowdom-301/)
-9. [How You Can Use Responsive Web Components Today](https://www.sitepoint.com/responsive-web-components/)
-10. [Мои Web-компоненты](https://github.com/KAnastasiya/Web_components)
+5. [DevBytes: Web Components](https://www.youtube.com/watch?v=T5y_lmLngAk&list=PLOU2XLYxmsIJkA_W95NDrjdkk3dR6Jq4w&index=1)
+6. [Custom Elements, Shadow Dom, CSS Scoping, HTML imports и т.д. (learn.javascript)](https://learn.javascript.ru/webcomponents)
+7. [Shadow Dom. Введение (frontender, часть 1)](http://frontender.info/shadowdom/)
+8. [Shadow Dom. CSS и стили (frontender, часть 2)](http://frontender.info/shadowdom-201/)
+9. [Shadow Dom. Продвинутые концепции и DOM API (frontender, часть 3)](http://frontender.info/shadowdom-301/)
+10. [How You Can Use Responsive Web Components Today](https://www.sitepoint.com/responsive-web-components/)
+11. [Мои Web-компоненты](https://github.com/KAnastasiya/Web_components)
 
 ======
 
@@ -43,11 +44,12 @@
 3. [Пишем понятный код с пользовательскими свойствами CSS (zmeika)](http://zmeika.name/2017/03/09/readable-css.html)
 4. [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
 5. [Now that CSS Custom Properties are a Thing, All Value Parts Can Be Changed Individually](https://css-tricks.com/now-css-custom-properties-thing-value-parts-can-changed-individually/)
-6. [CSS Custom Properties in Microsoft Edge](https://blogs.windows.com/msedgedev/2017/03/24/css-custom-properties/#FejEgroStbJlMRtg.97)
-7. [Winning with CSS Variables](https://vgpena.github.io/winning-with-css-variables/)
-8. [How To Define And Use CSS Custom Properties](http://vanseodesign.com/css/custom-properties/)
-9. [How To Use CSS Custom Properties To Write More Readable Code](http://vanseodesign.com/css/custom-properties-and-readability/)
-10. [A Practical Guide to CSS Variables](https://www.sitepoint.com/practical-guide-css-variables-custom-properties/)
+6. [Пользовательские свойства как основа архитектуры CSS (Павел Ловцевич)](https://www.youtube.com/watch?v=MmlJYjnHXhM)
+7. [CSS Custom Properties in Microsoft Edge](https://blogs.windows.com/msedgedev/2017/03/24/css-custom-properties/#FejEgroStbJlMRtg.97)
+8. [Winning with CSS Variables](https://vgpena.github.io/winning-with-css-variables/)
+9. [How To Define And Use CSS Custom Properties](http://vanseodesign.com/css/custom-properties/)
+10. [How To Use CSS Custom Properties To Write More Readable Code](http://vanseodesign.com/css/custom-properties-and-readability/)
+11. [A Practical Guide to CSS Variables](https://www.sitepoint.com/practical-guide-css-variables-custom-properties/)
 
 ======
 
@@ -82,8 +84,9 @@
 14. [CSS clip-path maker](http://bennettfeely.com/clippy/)
 15. [5 CSS Properties That You Probably Don’t Know](http://developer.telerik.com/topics/web-development/5-css-properties-probably-still-dont-know/amp/) (font-display, contain, writing-mode, clip-path, will-change)
 16. [Умная прокрутка со Scroll Snap Points](http://css.yoksel.ru/scroll-snap/)
-17. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
-18. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
+17. [Парадоксы display:contents и будущее текста в CSS](http://css-live.ru/css/paradoksy-displaycontents-i-budushhee-teksta-v-css.html)
+18. [Вы не знаете CSS (Антон Немцев)](https://www.youtube.com/watch?v=VoA-aQu75Xk) 
+19. [CSS: от темных времен до CSS модулей (Екатерина Поршнева)](https://www.youtube.com/watch?v=_uFFP_NFRtw) 
 
 ======
 
@@ -100,6 +103,8 @@
 ### Другие новинки
 1. [Наш взгляд на progressive web apps (Я.субботник, Антон Кричевский)](https://www.youtube.com/watch?v=9wr-dx5Ga04)
 2. [Нативные ECMAScript модули — первый обзор (habrahabr)](https://habrahabr.ru/company/tuturu/blog/326716/)
+3. [Web Workers](https://www.youtube.com/watch?v=t_hrcpT6oYQ)
+4. [Managing CSS & JS in an HTTP/2 World](https://www.viget.com/articles/managing-css-js-http-2?amp=true)
 
 ======
 
@@ -117,6 +122,9 @@
 11. [Проверьте скорость своего сайта](https://webo.in/)
 12. [Tackling Render Blocking CSS for a Fast Rendering Website](https://www.sitepoint.com/critical-rendering-path-css-fast-loading-website/)
 13. [What is the cost of my npm package?](https://cost-of-modules.herokuapp.com/)
+14. [Критический запрос](https://medium.com/devschacht/the-critical-request-ac20b5267e4a)
+15. [Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://vuejsdevelopers.com/2017/07/24/critical-css-webpack/)
+16. [Гонка за скоростью](https://medium.com/devschacht/speeding-up-loading-in-the-era-of-smartphones-f9fa0f6ac672)
 
 ======
 
