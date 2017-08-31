@@ -152,6 +152,8 @@
 | [webpack-merge](https://www.npmjs.com/package/webpack-merge) | Позволяет объединять массивы и объекты, в новый объект |
 | [stylelint-webpack-plugin](https://www.npmjs.com/package/stylelint-webpack-plugin) | Линтинг (проверка на соответствие стандартам) стилей |
 | [jsdoc-webpack-plugin](https://www.npmjs.com/package/jsdoc-webpack-plugin) | Генерация документации о скриптах проекта на основании комментариев к коду |
+| [copy-webpack-plugin](https://github.com/kevlened/copy-webpack-plugin) | Копирование данных из одного каталога в другой |
+| [clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin) | Очистка каталога |
 
 *- Для Webpack 2 вместо NoErrorsPlugin используется NoEmitOnErrorsPlugin*
 
