@@ -67,6 +67,7 @@
 | ---------------------- | -------------------------------------------------- |
 | [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) | Удаляет все лишние пробелы в конце строк при сохранении файла |
 | [EditorConfig](https://packagecontrol.io/packages/EditorConfig) | Поддержка [EditorConfig](http://editorconfig.org/) в ST3 |
+| [JsPrettier](https://packagecontrol.io/packages/JsPrettier) | Автоматическое форматирование кода (json, js, css, scss...) |
 | [Markdown Editing](https://packagecontrol.io/packages/MarkdownEditing) | Написание md-файлов непосредственно в ST3 |
 | [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview) | Преобразование md-файлов в html-формат |
 | [Theme - Soda](https://github.com/buymeasoda/soda-theme) | Тема редактора |
