@@ -30,6 +30,7 @@
 2. [w3schools.com](http://www.w3schools.com/html/default.asp)
 3. [htmlreference.io](http://htmlreference.io/semantic/)
 4. [quackit.com](http://www.quackit.com/html/)
+5. [HTML: The Living Standard](https://html.spec.whatwg.org/dev/)
 
 ======
 
