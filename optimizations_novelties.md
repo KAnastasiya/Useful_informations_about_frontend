@@ -101,10 +101,9 @@
 ======
 
 ### Другие новинки
-1. [Наш взгляд на progressive web apps (Я.субботник, Антон Кричевский)](https://www.youtube.com/watch?v=9wr-dx5Ga04)
-2. [Нативные ECMAScript модули — первый обзор (habrahabr)](https://habrahabr.ru/company/tuturu/blog/326716/)
-3. [Web Workers](https://www.youtube.com/watch?v=t_hrcpT6oYQ)
-4. [Managing CSS & JS in an HTTP/2 World](https://www.viget.com/articles/managing-css-js-http-2?amp=true)
+1. [Нативные ECMAScript модули — первый обзор (habrahabr)](https://habrahabr.ru/company/tuturu/blog/326716/)
+2. [Web Workers](https://www.youtube.com/watch?v=t_hrcpT6oYQ)
+3. [Managing CSS & JS in an HTTP/2 World](https://www.viget.com/articles/managing-css-js-http-2?amp=true)
 
 ======
 
