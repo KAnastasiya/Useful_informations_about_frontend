@@ -1,15 +1,19 @@
 ### Progressive Web Apps (PWA):
-- [Клеим будущее с помощью PWA](https://www.youtube.com/watch?v=q8RID9nFWNM&t=1100s)
-- [Наш взгляд на progressive web apps (Я.субботник, Антон Кричевский)](https://www.youtube.com/watch?v=9wr-dx5Ga04) 
-- [Web App Manifest (MDN)](https://developer.mozilla.org/en-US/docs/Web/Manifest)
-- [Манифест? А? Что? Зачем? (Вадим Макеев)](https://medium.com/web-standards/%D0%BC%D0%B0%D0%BD%D0%B8%D1%84%D0%B5%D1%81%D1%82-%D0%B0-%D1%87%D1%82%D0%BE-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-865e609f6f47)
-- [Icons & Browser Colors (developers.google)](https://developers.google.com/web/fundamentals/design-and-ui/browser-customization/)
-- [Что такое Service Worker (getinstance)](http://getinstance.info/articles/javascript/introduction-to-service-workers/)
-- [Service Worker API (MDN)](https://developer.mozilla.org/ru/docs/Web/API/Service_Worker_API)  
+1. [Клеим будущее с помощью PWA](https://www.youtube.com/watch?v=q8RID9nFWNM&t=1100s)
+2. [Наш взгляд на progressive web apps (Я.субботник, Антон Кричевский)](https://www.youtube.com/watch?v=9wr-dx5Ga04) 
+3. [Google developers (video course)](https://www.youtube.com/watch?v=17kGWJOuL-A&list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN)
+4. [Web App Manifest (MDN)](https://developer.mozilla.org/en-US/docs/Web/Manifest)
+5. [Манифест? А? Что? Зачем? (Вадим Макеев)](https://medium.com/web-standards/%D0%BC%D0%B0%D0%BD%D0%B8%D1%84%D0%B5%D1%81%D1%82-%D0%B0-%D1%87%D1%82%D0%BE-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-865e609f6f47)
+6. [Service Worker API (MDN)](https://developer.mozilla.org/ru/docs/Web/API/Service_Worker_API)  
 https://developers.google.com/web/tools/chrome-devtools/progressive-web-apps 
-- [serviceworke.rs](https://serviceworke.rs/) 
-- [Google Chrome. Debug Progressive Web Apps](https://developers.google.com/web/tools/chrome-devtools/progressive-web-apps) 
-- [Web App Install Banners](https://developers.google.com/web/fundamentals/engage-and-retain/app-install-banners/) 
+7. [Что такое Service Worker (getinstance)](http://getinstance.info/articles/javascript/introduction-to-service-workers/)
+8. [serviceworke.rs](https://serviceworke.rs/) 
+9. [Генератор Web Manifest](https://tomitm.github.io/appmanifest/) 
+10. [PWA Builder](http://preview.pwabuilder.com/generator) 
+11. [Google Chrome. Debug Progressive Web Apps](https://developers.google.com/web/tools/chrome-devtools/progressive-web-apps) 
+12. [Web App Install Banners](https://developers.google.com/web/fundamentals/engage-and-retain/app-install-banners/) 
+13. [Icons & Browser Colors (developers.google)](https://developers.google.com/web/fundamentals/design-and-ui/browser-customization/)
+14. My very simple PWA - [Blue Shark](https://github.com/KAnastasiya/Blue_Shark).
 
 ======
 
