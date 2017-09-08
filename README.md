@@ -159,5 +159,10 @@
 
 ======
 
+### Оптимизируем frontend
+[Оптимизация фронтенда](https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/optimizations.md)
+
+======
+
 ### Взгляд в будущее
-[Новинки frontend-а и его оптимизация](https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/optimizations_novelties.md)
+[Новинки frontend-а](https://github.com/KAnastasiya/Useful_informations_about_frontend/blob/master/novelties.md)
