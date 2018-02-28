@@ -29,8 +29,10 @@
 ======
 
 ### Установка Ubuntu (17.04)
-1. [Get Ubuntu](https://www.ubuntu.com/download)
+1. [Где скачать дистрибутив](https://www.ubuntu.com/download)
 2. [Запись iso-образа на флешку в Linux](http://compizomania.blogspot.com/2015/09/iso-linux.html) 
+3. [Запись iso-образа на флешку в Windows](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#6)
+4. [Установка](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0)
 
 ======
 
